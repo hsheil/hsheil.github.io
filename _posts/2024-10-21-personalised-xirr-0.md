@@ -37,6 +37,26 @@ In summary, knowing your XIRR is key to improving future performance. Think of i
 
 In addition, what I really want is the ability to run multiple __ghost or virtual__ portfolios alongside a real portfolio. In essence to answer the question - "here's what you could have had".
 
+Here's a short example to illustrate how XIRR can compress capex and income together for a stock holding into one number that still clearly conveys investment performance.
+
+| Date       | Amount       | Comment                                                   |
+| ---------- | ------------ | --------------------------------------------------------- |
+| 14/07/2021 | \-£10,000.00 | Purchase                                                  |
+| 17/11/2021 | \-£5,000.00  | Purchase                                                  |
+| 14/01/2022 | £544.40      | Dividend income                                           |
+| 27/01/2022 | \-£1,000.00  | Purchase                                                  |
+| 22/04/2022 | \-£1,500.00  | Purchase                                                  |
+| 09/08/2022 | £499.50      | Dividend income                                           |
+| 20/12/2022 | £217.20      | Dividend income                                           |
+| 06/02/2023 | £868.70      | Dividend income                                           |
+| 07/08/2023 | £417.00      | Dividend income                                           |
+| 13/02/2024 | £868.70      | Dividend income                                           |
+| 21/10/2024 | £44,324.50   | Value if sold on 21/10                                    |
+|            |              |                                                           |
+| __XIRR__       | __40.93%__       | __Extended Internal Rate of Return from 14/7/21 to 21/10/24__ |
+
+Table 1. XIRR example.
+
 Read on to see how to calculate your own personalised XIRR and run virtual portfolios..
 
 # The approach
