@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Personalised XIRR and investing - part 0"
+title:  "Personalised XIRR and investing - part 1"
 date:   2024-10-21 17:39:00 +0100
 categories: investing
 ---
 
 # Motivation - why should you care about XIRR?
 
-Last week I cycled to the [RecSys conference in Bari](https://recsys.acm.org/recsys24/) from Sardinia. Like all cycle tours with hours to be spent in the saddle, there are plenty of kilometres to mull over things.
+Last week I cycled to the [RecSys conference in Bari](https://recsys.acm.org/recsys24/) from Sardinia. Like all cycle tours with hours to be spent in the saddle, there are plenty of kilometres to mull over things. RecSys is about all things Recommender Systems - the algorithms that power most of what we see on our phones / the web - what to watch on Netflix or listen to on Spotify, recommended content on Instagram or TikTok, what to buy on Amazon.. the list is endless. Every app you use has a recommender engine built into it. And recommenders work by being __personal__ - they filter huge piles of content to find just the 0.001% that will appeal to you.
 
 <figure>
     <img src="/images/italy-24.png" alt="Sardinia - Italy 2024" />
@@ -17,7 +17,7 @@ Last week I cycled to the [RecSys conference in Bari](https://recsys.acm.org/rec
 
 For years, I've mostly ignored the published performance of various stock market indices - the NASDAQ, S&P 500, FTSE 100 or a "just buy the world" all-world ETF like [VWRP](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-accumulating/overview) / [VWRL](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing/portfolio-data) - telling myself that my investing style is better and anyway, the aggregate timing of purchases / sales would skew any comparison.
 
-The truth though is that I just didn't want the remorseless reckoning that such a comparison would bring. But on the cycle trip I realised that the reckoning is needed. Like training for cycling or running, if you don't measure then what are you improving?
+The truth though is that I just didn't want the remorseless reckoning that such a comparison would bring. But on the cycle trip I realised that the reckoning is needed. Like training for cycling or running, if you don't measure then what are you improving? In essence, I needed my own __personalised__ performance report to power my future recommended stock market strategy.
 
 There's little to no Machine Learning in this post, just data crunching and statistics in Python and the use of two beautifully elegant functions [merge_asof](https://pandas.pydata.org/docs/reference/api/pandas.merge_asof.html) and [pyxirr](https://pypi.org/project/pyxirr/) to save writing lots of code.
 
