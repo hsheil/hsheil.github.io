@@ -17,7 +17,7 @@ Last week I cycled to the [RecSys conference in Bari](https://recsys.acm.org/rec
 
 For years, I've mostly ignored the published performance of various stock market indices - the NASDAQ, S&P 500, FTSE 100 or a "just buy the world" all-world ETF like [VWRP](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-accumulating/overview) / [VWRL](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing/portfolio-data) - telling myself that my investing style is better and anyway, the aggregate timing of purchases / sales would skew any comparison.
 
-The truth though is that I just didn't want the remorseless reckoning that such a comparison would bring. But on the cycle trip I realised that the reckoning is needed. Like training for cycling or running, if you don't measure then what are you improving? In essence, I needed my own __personalised__ performance report to power my future recommended stock market strategy.
+The unvarnished truth is that I just didn't want the reckoning that such a comparison would bring. But on the cycle trip I realised that the reckoning is needed. Like training for cycling or running, if you don't measure then what are you improving? In essence, I need a __personalised__ performance report to power my future recommended stock market strategy.
 
 There's little to no Machine Learning in this post, just data crunching and statistics in Python and the use of two beautifully elegant functions [merge_asof](https://pandas.pydata.org/docs/reference/api/pandas.merge_asof.html) and [pyxirr](https://pypi.org/project/pyxirr/) to save writing lots of code.
 
@@ -35,9 +35,11 @@ What is unacceptable to me is that virtually __no online platform I use in the U
 
 In summary, knowing your XIRR is key to improving future performance. Think of it as VO2 max for running.
 
-In addition, what I really want is the ability to run multiple __ghost or virtual__ portfolios alongside a real portfolio. In essence to answer the question - "here's what you could have had".
+Both Microsoft Excel and Google Sheets have an XIRR function readily available and I _could_ just put my data in there and go at it. But I've got over 2,600 transactions to check and also I want to do more..
 
-Here's a short example to illustrate how XIRR can compress capex and income together for a stock holding into one number that still clearly conveys investment performance.
+What I really want is the ability to run multiple __virtual__ portfolios alongside a real portfolio. In essence to answer the question - "here's what you could have had if you had tracked the S&P 500 or FTSE 100 with the same money".
+
+Here's a short example to illustrate how XIRR can compress capital and income together for a stock holding into one number that still clearly conveys investment performance.
 
 | Date       | Amount       | Comment                                                   |
 | ---------- | ------------ | --------------------------------------------------------- |
@@ -63,12 +65,12 @@ Read on to see how to calculate your own personalised XIRR and run virtual portf
 
 The plan of attack is pretty simple:
 
-1. Load my own data into a data structure suitable for calculating XIRR.
-3. Write or acquire an XIRR function.
-2. Load the reference data into a mirror data structure for the same reason.
-4. For every buy and sell transaction I made in the real portfolio, make a twin matching transaction in the virtual portfolio.
-4. For every distribution that the virtual portfolio makes, add it to the portfolio so that dividends contribute to the virtual XIRR.
-4. Run and report the analysis.
+1. (Part 1) Load my own data into a data structure suitable for calculating XIRR.
+3. (Part 1) Write or acquire an XIRR function.
+4. (Part 1) Run and report the analysis.
+2. (Part 2) Load the reference data into a mirror data structure for the same reason.
+4. (Part 2) For every buy and sell transaction I made in the real portfolio, make a twin matching transaction in the virtual portfolio.
+4. (Part 2) For every distribution that the virtual portfolio makes, add it to the portfolio so that dividends contribute to the virtual XIRR.
 
 All the code is written in Python with heavy use of the excellent [pandas](https://pandas.pydata.org) library. Our core data structure will be the pandas [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html).
 
@@ -108,26 +110,28 @@ And to get the income transactions, same table but different columns:
 #=> This SQL query retrieves income  - dividends, return of capital etc.
 {% endhighlight %}
 
-# The reference data
+I used a simple factory design pattern to model the Moneywiz connector and support other datasources in the future:
 
-Vanguard is the 800-pound gorilla of index and ETF funds in the US and have established a significant footprint in the UK. Handily for this post, not only does Vanguard have an ETF which tracks the FTSE 100 - [VUKE](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-100-ucits-etf-gbp-distributing/overview) but they also have released all of the daily prices for this ETF in CSV format.
+{% highlight python %}
+# The DataConnector class models how the core df_prices and df_income dataframes
+# should be built as well as a way to get the current open positions.
+# A working impl. for Moneywiz is provided.
+class DataConnector:
+    def get_data(self):
+        raise NotImplementedError("Subclasses should implement this!")
 
-<figure>
-    <img src="/images/vuke-prices.png" alt="Vanguard VUKE daily prices" />
-    <figcaption>Vanguard VUKE daily prices since 23rd May 2012 and download button.</figcaption>
-</figure>
+    def get_open_positions(self):
+        raise NotImplementedError("Subclasses should implement this!")
 
-<figure>
-    <img src="/images/vuke-income.png" alt="Vanguard VUKE income distributions" />
-    <figcaption>Vanguard VUKE quarterly income distributions and download button.</figcaption>
-</figure>
+    def get_txns(ticker):
+        raise NotImplementedError("Subclasses should implement this!")
 
+{% endhighlight %}
 
-Vanguard update the files daily with the latest price so there's no point linking directly to them as the links will become invalid quickly.
 
 # The XIRR function
 
-Now we need to write or acquire an XIRR implementation. It would actually be quite gnarly code to write. We would need to use [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method). In numerical analysis, Newton's method is an iterative technique used to find roots (or zeros) of a real-valued function. In this case, it's used to find the interest rate (XIRR) that makes the NPV (Net Present Value) of the cashflows equal to zero. Luckily, someone has already done this for us, so once we have the DataFrame populated with 'Date' and 'Amount' columns, we simply call:
+Now we need to write or acquire an XIRR implementation. It would actually be quite gnarly code to write. We would need to use [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method). In numerical analysis, Newton's method is an iterative technique used to find roots (or zeros) of a real-valued function. In this case, it's used to find the interest rate (XIRR) that makes the NPV (Net Present Value) of the cashflows equal to zero. Luckily, someone has already done this for us via [PyXIRR](https://github.com/Anexen/pyxirr) "Rust-powered collection of financial functions", so once we have the DataFrame populated with 'Date' and 'Amount' columns, we simply call:
 
 {% highlight python %}
   try:
@@ -144,109 +148,148 @@ Now we need to write or acquire an XIRR implementation. It would actually be qui
       log.error("Problem in XIRR calc 2", ipe)
 {% endhighlight %}
 
-# The read-across, aka virtual portfolios
+Note the native support for DataFrames by the xirr() function - nice!
 
-Given two dataframes A and B, how can I match up transactions made in A with those made in B? A key part of the answer is using the [merge_asof](https://pandas.pydata.org/docs/reference/api/pandas.merge_asof.html) built-in function on the pandas DataFrame. It performs an elegant merging of a column from B onto A using __key distance__. If we order our 'Date' column correctly, we get the complicated merge operation for free!
+# Putting it all together for Part One
 
-Below is quite a long code listing - this code is in the middle of a refactoring and I may well split it out into its own post. For now, it serves to show the use of the merge_asof function to do some heavy lifting in the analysis.
+Below is the main driving function that loads and preprocesses the transaction data, sets up the reporting DataFrame and loops over each ticker in turn calculating XIRR over both capital growth (or loss) and income.
+
+The code should come across as both simple and readable. The more complicated parts in fact relate to an early effort to add UK CGT (Capital Gains Tax) exposure given the impending budget of doom at the end of October 2024.
+
 
 
 {% highlight python %}
-def run_comparison():
-    # We only need the real buys+sells for the ghost / virtual analysis, not income
-    df_buys_sells, _ = get_all_data()
-    df_buys_sells["Date"] = pd.to_datetime(df_buys_sells["Date"])
+def run_xirr(args):
+    # Stores the stats (as a dict) for each individual stock as we loop over them.
+    # Converted to a DF at the end and is the main printed output of this code.
+    results = []
+    # Holds the txns for each individual stock as we loop over them
+    # Merged at the end into one large DF to calc overall portfolio XIRR
+    all_dfs = []
 
-    # Load the VUKE distribution data
-    df_vuke_income = pd.read_excel(
-        "/Users/hsheil/Downloads/Distribution History - Vanguard FTSE 100 UCITS ETF (GBP) Distributing - 22_08_2024.xlsx",
-        skiprows=5,
-    )
-    df_vuke_income = preprocess_vuke_income(df_vuke_income)
+    connector = DataConnectorFactory.get_connector(args.source)
 
-    df_vuke = pd.read_excel(
-        "/Users/hsheil/Downloads/Historical Prices - Vanguard FTSE 100 UCITS ETF (GBP) Distributing - 22_08_2024.xlsx",
-        skiprows=8,
-    )
+    df_buys_sells, df_income = connector.get_data()
+    df_buys_sells, df_income = pre_process_actual(df_buys_sells, df_income)
 
-    # Ball-park for the txns we made before VUKE started trading
-    # Values derived from https://investing.thisismoney.co.uk/historic-prices/UKX?from=2010-08-01&to=2012-08-01
-    df_vuke = add_out_of_band_txns(df_vuke)
-    df_vuke = preprocess_vuke(df_vuke)
+    df_open = connector.get_open_positions()
+    df_open = pre_process_open(df_open)
 
-    # assign vuke price on actual purchase date to the df, using merge_asof to get the closest match
-    df_buys_sells = pd.merge_asof(
-        df_buys_sells, df_vuke[["Date", "vuke_price"]], on="Date", direction="nearest"
-    )
-    # Make sure our shizzle is correct
-    assert len(df_buys_sells.loc[df_buys_sells.vuke_price.isna()]) == 0
+    s_tickers = df_buys_sells.ZSYMBOL1.value_counts()
 
-    # Multiply by -1 here to negate the negative sign of Amount (- means a purchase)
-    df_buys_sells["vuke_shares"] = (
-        df_buys_sells["Amount"] / -df_buys_sells["vuke_price"]
-    )
-    # Use cumsum to get a rolling balance of all VUKE shares over time as we buy and sell
-    df_buys_sells["vuke_position"] = df_buys_sells["vuke_shares"].cumsum()
-    df_virtual_buys_sells = df_buys_sells[
-        ["Date", "Amount", "vuke_position", "vuke_shares", "vuke_price"]
-    ]
+    # The main loop over each position held in the portfolio
+    for ticker, _ in s_tickers.items():
+        if ticker in print_list:
+            log.info(f"Processing {ticker}")
+        capital, income, taxable_ratio, share_count, df = connector.get_txns(ticker)
+        if ticker in print_list:
+            log.info(f"{ticker}, {taxable_ratio=}, {capital=}")
+            print(
+                f"{df[['Date', 'Amount', 'taxable_shares', 'nontaxable_shares', 'taxable']]}"
+            )
 
-    # merge_asof again to merge real holdings onto the distributions dataframe
-    # so we can see how much dividends to "earn" at each Vanguard distribution date
-    df_vuke_income = pd.merge_asof(
-        df_vuke_income,
-        df_virtual_buys_sells[["Date", "vuke_position"]],
-        on="Date",
-        direction="nearest",
-    )
-    df_vuke_income["Amount"] = (
-        df_vuke_income["vuke_position"] * df_vuke_income["amount_per_unit"]
-    )
-    # Add in the balancing txn if we sold everything today
-    num_vuke = df_virtual_buys_sells.loc[
-        len(df_virtual_buys_sells) - 1, "vuke_position"
-    ]
-    # Use the latest Vanguard price to add a final balancing transaction
-    # where we liquidate the entire virtual platform so that the virtual XIRR is correct
-    latest_price = df_vuke.loc[0, "vuke_price"]
-    cap_profit = num_vuke * latest_price
-    log.info(f"{num_vuke=}, {latest_price=}, {cap_profit=}")
-    sell_all = {"Date": today, "Amount": cap_profit}
-    cap_invested = df_virtual_buys_sells.Amount.sum()
-    df_virtual_buys_sells.loc[len(df_virtual_buys_sells)] = sell_all
-    # XIRR on capital only
-    xirr_val = xirr(df_virtual_buys_sells[["Date", "Amount"]])
-    log.info(f"XIRR capital only is {xirr_val}")
-    cap_return = cap_invested + cap_profit
-    tr_pc = (cap_profit + cap_invested) / -cap_invested * 100
-    log.info(
-        f"Return (cap only) on £{cap_invested:.2f} is £{cap_profit:.2f}:: {cap_return:.2f} ({tr_pc:.2f}%)"
-    )
+        curr_val = add_open_position(ticker, share_count, df_open, df)
+        # crude calculation of tax payable..
+        if curr_val > 0:
+            taxable = (curr_val + capital) * taxable_ratio
+        else:
+            # TODO handle shares that have been sold
+            taxable = 1
+        # Add total curr_val to capital to get capital position
+        capital += curr_val
+        if ticker in print_list:
+            # Some rudimentary support for calculating CGT exposure
+            log.info(f"{ticker}, {curr_val=}")
+            log.info(f"{ticker}, {taxable=}")
+            log.info(f"{ticker}, {taxable_ratio=}")
+        overall = df.Amount.sum()
 
-    total_income = df_vuke_income["Amount"].sum()
-    total_profit = cap_profit + total_income
-    tr_pc = (total_profit + cap_invested) / -cap_invested * 100
-    log.info(
-        f"Return (cap+inc) on £{cap_invested:.2f} is £{total_profit:.2f} ({tr_pc:.2f}%)"
-    )
+        df = df.sort_values(by="Date")
+        df = df.reset_index(drop=True)
+        if ticker in print_list:
+            log.info(f"{df=}")
 
-    # Now merge buys/sells + income and get an overall XIRR including income
-    df_merged = pd.merge(
-        df_vuke_income[["Date", "Amount"]],
-        df_virtual_buys_sells[["Date", "Amount"]],
-        how="outer",
-        on="Date",
-    )
-    df_merged["Amount"] = df_merged["Amount_x"].fillna(df_merged["Amount_y"])
+        # My Moneywiz instance holds a couple of Vodafone divi payments
+        # *before* any purchase for the date range in question - remove these
+        df = check_rogue(df, ticker)
 
-    log.info(
-        f"{df_vuke_income.shape=}, {df_virtual_buys_sells.shape=}, {df_merged.shape=}"
-    )
+        if ticker in print_list:
+            log.info(f"=====DF GOING INTO XIRR for {ticker} =====")
+            log.info(f"{df[['Date', 'Amount']]=}")
+            df.to_csv(f"{ticker}.csv", index=False)
+        try:
+            curr_xirr = xirr(df[["Date", "Amount"]])
+        except InvalidPaymentsError:
+            log.error(f"Problem in XIRR calc for {ticker}")
+            log.error(f"{df=}")
+        if curr_xirr is None:
+            log.error(f"Problem in XIRR calc for {ticker}")
+            log.error(f"{df=}")
+
+        # Use the sign to distinguish between monies invested (-)
+        # and income generated (+)
+        df.loc[df["Amount"] < 0, "invested"] = df["Amount"]
+        df.loc[df["Amount"] > 0, "income"] = df["Amount"]
+
+        all_dfs.append(df)
+        # Work out how many years since the very first purchase
+        # of the current ticker
+        years = (today - df.Date.iloc[0]).days / 365
+        if ticker in print_list:
+            log.info(f"{taxable=}")
+        results.append(
+            {
+                "Ticker": ticker,
+                "XIRR": curr_xirr * 100,
+                "Curr value": curr_val,
+                "Overall": overall,
+                "Capital": capital,
+                "CGT": taxable,
+                "Dividends": income,
+                "Years": years,
+                "Cost": float(df.invested.sum()),
+                "Income": float(df.income.sum()),
+            }
+        )
+
+    df_results = pd.DataFrame(results)
+    # TR = Total Return
+    df_results["TR"] = -(df_results.Income + df_results.Cost) / df_results.Cost
+    # These cols are no longer needed
+    df_results = df_results.drop(columns=["Cost", "Income"])
+
+    # Let the user specify which col to sort by on the cmdline
+    df_results = df_results.sort_values(by=args.order)
+    # Use print instead of log so we get col headers aligned correctly
+    print(f"{df_results}")
+
+    # See who is still to be covered
+    # covered = set(df_results.Ticker)
+    # missing = current_tickers.difference(covered)
+    # if len(missing) > 0:
+    #     log.info(f"Still to add in, {missing}")
+
+    df_all = pd.concat(all_dfs)
+    log.info(f"{df_all.shape=}")
+    # This is the portfolio-level XIRR
+    overall_xirr = xirr(df_all[["Date", "Amount"]])
+
+    # Check for unused txns
+    df_buy_sells_unused = df_buys_sells[df_buys_sells.used == 0]
+    if len(df_buy_sells_unused) > 0:
+        log.info(f"{len(df_buy_sells_unused)} unused buy/sell txns")
+    df_income_unused = df_income[df_income.used == 0]
+    if len(df_income_unused) > 0:
+        log.info(f"{len(df_income_unused)} unused income txns / {len(df_income)} total")
+        log.info(f"{df_income_unused.ZINVESTMENTSYMBOL.value_counts()}")
+    log.info(f"Overall XIRR, {overall_xirr:.5f}")
+    log.info(f"Indicative CGT exposure, {df_results.CGT.sum():.2f}")
+
 {% endhighlight %}
 
 
-# Putting it all together so far
+# Conclusion
 
-This first post gets the base XIRR analysis up and running, motivating the reader as to why it is work worth doing. Part two will dig into relative performance (real vs portfolio) and replace the FTSE 100 data with S&P 500 data.
+This first post gets the base XIRR analysis up and running, motivating the reader as to why it is well worth doing. Part two will dig into relative performance by supporting virtual portfolios that track the real portfolio for indices like the S&P 500, FTSE 100 etc.
 
 The complete code will be published on [Github](https://github.com/hsheil) once it's been refactored. For now, this post just serves to show the main concepts.
