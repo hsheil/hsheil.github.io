@@ -6,7 +6,11 @@ permalink: /about/
 
 ```python
 import random; 
-random.choice(['Runner', 'Cyclist', 'Coder', 'ML/AI', 'Investor'])
+random.choice(['Runner',
+               'Cyclist',
+               'Coder',
+               'ML/AI',
+               'Investor'])
 ```
 
 [Strava profile](https://www.strava.com/athletes/1871302)

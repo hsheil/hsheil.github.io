@@ -7,7 +7,11 @@ layout: home
 
 ```python
 import random; 
-random.choice(['Running', 'Cycling', 'Coding', 'ML/AI', 'Investing'])
+random.choice(['Runner',
+               'Cyclist',
+               'Coder',
+               'ML/AI',
+               'Investor'])
 ```
 
 _Writing is good for the soul_
