@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+_Writing is good for the soul_
+
 ```python
 import random; 
 random.choice(['Runner',
