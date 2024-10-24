@@ -12,6 +12,7 @@ random.choice(['Runner',
                'Cyclist',
                'Coder',
                'ML/AI',
+               'Founder',
                'Investor'])
 ```
 
