@@ -3,7 +3,10 @@ layout: post
 title:  "Personalised XIRR and investing - part 1"
 date:   2024-10-21 17:39:00 +0100
 categories: investing
+excerpt: Learn how to calculate your personalised Extended Internal Rate of Return (XIRR) using Python.
 ---
+
+
 
 # Motivation - why should you care about XIRR?
 
@@ -31,7 +34,7 @@ Put another way, if you have dripped £10,000, £100,000 or £1,000,000 into a p
 
 XIRR is remorseless - it cuts through all the noise and marketing and gives one, easy to digest number that sums up investment performance. For a portfolio, it can be calculated both per stock holding and as a total weighted number. Thus it shows overall performance and also the big winners and losers behind the total number (if you're a stock picker).
 
-What is unacceptable to me is that virtually __no online platform I use in the UK actually reports XIRR__! Moneywiz also doesn't calculate XIRR! They either focus on total return (disregarding length of time holding an investment) or capital growth (ignoring income via dividends which is very important for the UK indices). I want to know the exact XIRR for each investment in my portfolio and the total XIRR for the portfolio overall.
+What is unacceptable to me is that virtually __no online platform I use in the UK actually reports XIRR__! Moneywiz (see below) also doesn't calculate XIRR! They either focus on total return (disregarding length of time holding an investment) or capital growth (ignoring income via dividends which is very important for the UK indices). I want to know the exact XIRR for each investment in my portfolio and the total XIRR for the portfolio overall.
 
 In summary, knowing your XIRR is key to improving future performance. Think of it as VO2 max for running.
 
