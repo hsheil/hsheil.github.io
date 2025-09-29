@@ -1,0 +1,206 @@
+---
+layout: post
+title:  "Cycling from Cardiff to Prague"
+date:   2025-09-29 09:39:00 +0100
+categories: cycling
+excerpt: A bucket list adventure where everything just went right.
+---
+
+# Preserving
+
+This is just a quick post to commit to the cloud what will inevitably fade from memory..
+
+# Goal
+
+In short: cycle from the front door of my house to the conference centre in Prague where [RecSys 25](https://recsys.acm.org/recsys25/) was being held. Last year for RecSys 24 I cycled 1,000km up through Sardinia (Cagliari - Olbia through the most gorgeous mountain passes) and then from the port of Rome (Civitavecchia) across Italy to Bari. That was a 7-day trip. Cardiff to Prague bumps up the distance by 50% to just over 1,500 km, but equally a big chunk of it would be on the Rhine River cyclepath so the elevation would be much easier to manage. I decided to try and do it in 10 days so an average of 150km per day, allowing me to take exactly two weeks off work - one for travel and one for the conf itself.
+
+# How did it go?
+
+In short, it ranged from the miserable to the sublime, with an average score of "amazing" (because all bike tours are remembered wit rose-tinted glasses!).
+
+If you want to get your geek on, I downloaded all of the .FIT files from my bike head unit (Elemnt Bolt v2) and whipped up some Python code using fitparse, Pandas and folium to slice, dice and visualise the ride data. I'm not that impressed with the machine learning that Strava use and it would be trivial to extend this code to calculate a nice Relative Effort metric using heart rate as a proxy for exertion (rolling window, total / avg / min / max).
+
+<figure>
+    <img src="/images/cardiff-prague-map.png" alt="Cardiff - Prague map" />
+    <figcaption>Figure 1. 10 segments to get from Cardiff to Prague.</figcaption>
+</figure>
+
+
+<figure>
+    <img src="/images/cardiff-prague-map-elevation.png" alt="Cardiff - Prague map elevation" />
+    <figcaption>Figure 1. Elevation to get from Cardiff to Prague. Summarised it would be: lumps and bumps across England, flat through NL and DE, getting lumpier again from Nuremberg to Prague</figcaption>
+</figure>
+
+Here's the interactive version! Click on the stars to see day-by-day stats!
+
+<iframe 
+    src="/bike_tour_map.html" 
+    width="100%" 
+    height="600" 
+    style="border:none;">
+</iframe>
+
+
+
+### 10-Day Ride Summary
+
+|  Day | Distance_km |  Time_h | AvgSpeed_kmh | Calories | Elevation_m |
+| ---: | ----------: | ------: | -----------: | -------: | ----------: |
+|    1 |     210.111 | 7.69583 |      27.3019 |     4016 |        1066 |
+|    2 |     194.953 | 7.45611 |      26.1467 |     3634 |        1352 |
+|    3 |     143.765 | 6.04333 |      23.7891 |     2459 |         213 |
+|    4 |     158.403 | 6.99333 |      22.6505 |     2601 |         341 |
+|    5 |      139.93 | 5.40889 |      25.8703 |     2612 |         288 |
+|    6 |     123.276 | 5.17083 |      23.8406 |     2161 |         471 |
+|    7 |     141.429 | 5.41639 |      26.1114 |     2599 |         475 |
+|    8 |     106.121 | 4.25278 |      24.9533 |     2109 |         583 |
+|    9 |     208.591 | 8.15278 |      25.5853 |     3974 |        1582 |
+|   10 |     117.014 | 4.75222 |      24.6231 |     2104 |         881 |
+
+
+# Analysing the FIT files
+
+[Might break this out into a separate post in the future]
+
+It's pretty simple code - fitparse, pandas and folium pretty much do all of the heavy lifting for us..
+
+Here's the complete [Github repo](https://github.com/hsheil/fit_utils)
+
+{% highlight python %}
+import pandas as pd
+import numpy as np
+import matplotlib.colors as mcolors
+from fitparse import FitFile
+
+
+# -----------------------------
+# 1. Extract track data
+# -----------------------------
+def extract_fit_data(filepath):
+    fitfile = FitFile(filepath)
+    data = []
+    for record in fitfile.get_messages("record"):
+        row = {}
+        for d in record:
+            if d.name in ("position_lat", "position_long", "altitude", "timestamp"):
+                row[d.name] = d.value
+        if "position_lat" in row and "position_long" in row:
+            row["lat"] = row["position_lat"] * (180 / 2**31)
+            row["lon"] = row["position_long"] * (180 / 2**31)
+            data.append(row)
+    return pd.DataFrame(data)
+
+
+# -----------------------------
+# 2. Extract ride stats
+# -----------------------------
+def extract_stats(filepath):
+    fitfile = FitFile(filepath)
+    stats = {"file": filepath}
+    for msg in fitfile.get_messages("session"):
+        for d in msg:
+            if d.name in (
+                "total_distance",
+                "total_ascent",
+                "total_calories",
+                "total_timer_time",
+            ):
+                stats[d.name] = d.value
+    return stats
+{% endhighlight %}
+
+And the main driving function:
+
+{% highlight python %}
+for i, ride in enumerate(rides):
+    stats = summary.iloc[i]
+    ride_ds = downsample(ride, max_points=500)
+    coords = list(zip(ride_ds.lat, ride_ds.lon))
+    n_segments = len(coords) - 1
+    if n_segments < 1:
+        continue
+
+    n_grad = min(50, n_segments)
+    seg_indices = np.linspace(0, n_segments - 1, n_grad, dtype=int)
+    seg_colors = gradient_colors(html_colors[i % 10], n_grad)
+
+    for j in range(len(seg_indices) - 1):
+        folium.PolyLine(
+            coords[seg_indices[j] : seg_indices[j + 1] + 1],
+            color=seg_colors[j],
+            weight=4,
+            opacity=0.9,
+        ).add_to(m)
+
+{% endhighlight %}
+
+
+
+# Day 1: Cardiff - Thame (Oxford)
+
+[Day 1 Strava link](https://www.strava.com/activities/15788198142)
+
+Right from the off the weather forecast looked disastrous. Monsoon bands of rain roaming at will across South Wales and gale force winds predicted on the Holland coast in two days time.. Got up at 7 am and spent 2 hours packing and faffing and looking out the window in angst. Then the rain stopped and at 09:15 I just went for it. Bone-dry all the way to the Severn bridge and over it too! But the ominous clouds eventually closed in and I got battered by rain just over the border in England - from Hill all the way to Berkeley and Ham., Stopped at the Waitrose in Stroud and spent 10 minutes listening to two teenagers discussing existential angst in the cafe instead of serving customers, got a sandwich deal and got back on the bike. Soaked through now and shivering so pedaled hard to warm up. Got hit again with hard rain at Witney but the hotel was close so just pushed on. 45 minute hot shower and a big fish supper got me back on track for Day 2..
+
+# Day 2: Thame (Oxford) - Port of Harwich
+
+[Day 2 Strava link](https://www.strava.com/activities/15800470071)
+
+The weather forecast promised virtually zero rain today and that turned out to be total bullshit. Even though today was 211 km, the ferry didn't go until 11 pm so I really only wanted to get there at dusk to avoid cycling in the dark. The heavens opened at Chelmsford and Colchester - Chelmsford having the added bonus of hail to get things going with a bang before moving onto the kind of big, fat, heavy raindrops that bounce off the tarmac. Cyclists are like eskimoes with snow - we recognise over 100 different types of rain!
+
+I probably navigated too close to London - going through Barnet, Cockfosters and Enfield. I carefully negotiated drivers sitting in traffic who were slowly going insane. Got to Harwich just after 7 pm and celebrated with a double Big Mac meal before getting on the ferry. Two biggest days in the bag albeit with some rain attrition..
+
+# Day 3: Hook of Holland - Eindhoven
+
+[Day 3 Strava link](https://www.strava.com/activities/15809784065)
+
+
+The ferry got in bang on time. There was some kind of classic car tour onboard so got slightly high breathing in raw petrol fumes on the car deck before dismebarking. Cycled straight into the customs red zone and some questioning looks from Dutch police. Told them I had nothing to declare and they told me politely to piss off then! Anxiously scanning the skies looking for the forecast gale-force winds but it was just a spicy cross-wind - bonus!
+
+I've read about the Dutch cycling infrastructure but you really have to cycle it to believe it. Cycling exists as an entirely separate transport type to driving and drivers really respect cyclists. Heaven.. 
+
+# Day 4: Eindhoven - Cologne
+
+[Day 4 Strava link](https://www.strava.com/activities/15820487869)
+
+TBC
+
+# Day 5: Cologne - Babarach
+
+[Day 5 Strava link](https://www.strava.com/activities/15831328448)
+
+TBC
+# Day 6: Babarach - Babenhausen
+
+[Day 6 Strava link](https://www.strava.com/activities/15843742478)
+TBC
+# Day 7: Babenhausen - Creglingen
+
+[Day 7 Strava link](https://www.strava.com/activities/15854489306)
+
+TBC
+# Day 8: Creglingen - Nuremberg
+
+[Day 8 Strava link](https://www.strava.com/activities/15865007659)
+TBC
+# Day 9: Nuremberg - Plzen
+
+[Day 9 Strava link](https://www.strava.com/activities/15879239862)
+
+Woke up feeling pretty rough - not a good start with a big day ahead. Tried to eat a big breakfast but just had no appetite. Opposite me a big German dad was talking to his daughter, talking about how he spent 30 years working for Airbus or something and then it's all suddenly over and he's kicked out on his arse and she should do what makes her happy. "Try cycling 1,500 km Helmut and see how you feel" I mutter to myself as I gag on another semmel bread roll with shiny ham and plasticky cheese, washed down with generic machine coffee that doesn't improve anything about this breakfast.
+
+Roll out past Wordersee where Nuremberg has its Parkrun. If the segment was shorter I would have run it just for the parkrun tourism points but no parkrun heroics today.. I've got loads of sweets and chocolate on-board in the hope that my appetite will return once I get going.
+
+And sure enough it does, 60 minutes in and I'm scoffing jelly babies and hazelnut chocolate by the side of the road like a crack addict in a train station. Push on and get to a nice Backerei, making good time. Over-order and in walking to my table manage to drop the whole f**king tray on the ground. The German lady earnestly asks if it was an accident - I assure her it was and she insists on replacements for no charge. If I told her I'm a lunatic and I did it on purpose it would probably be a swift journey to jail..
+
+Push on again, today is just a day to eat up the miles and go from triple to double digits. The border into Czechia is a total non-event, marked only by a casino and hairdresser (?!) Straight away though the road surface degrades and my heart sinks when I get sent up a shitty logging road that rattles every tooth in my head as I go up it. Half-way up I'm into a deep, dark forest and hearing whistles behind the trees. "Never heard deer whistle like that before" I think to myself as the powermeter records an appreciable surge in output. The descent is equally sketchy but thankfully pops me out onto a main road with a PETROL STATION!!
+
+I'm realising that Czech drivers are nowhere near as good or nice as German or Dutch drivers so it's defence first and ask questions later. After a nice cultural exchange with a close-passing truck driver (alliteration always makes swearing more elegant I find), eventually I'm on the road into Plzen. My hotel is a timewarp from the 1980s but clean and comfortable. And that's the penultimate and probably Queen stage too, done and in the bag.
+
+
+# Day 10: Plzen - Prague!
+
+[Day 10 Strava link](https://www.strava.com/activities/15889002946)
+
+Hot again right from the start with peak temps of 33 degrees expected by mid-afternoon. Legs tired after the big segment yesterday but that was very much cancelled out by the knowing today was the last day
+
