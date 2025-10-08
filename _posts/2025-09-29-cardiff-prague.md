@@ -180,12 +180,20 @@ TBC
 # Day 6: Babarach - Babenhausen
 
 [Day 6 Strava link](https://www.strava.com/activities/15843742478)
-TBC
+Today was the day to start tacking east, having completed a lot of the south I needed to do. Left Babarach about 09:30 and 5 km the map is showing me a non-existent bridge over the Rhine. For a minute I thought about looking for a tunnel entrance (!) but then realised it was actually a ferry crossing over to Lorch on the east bank of the river. Frequency every 20 mins so not too bad.
+
+By this stage, I'm pretty much done with the Rhine. It's hard to take good photos / videos of it because it is just a flat, wide river. Thought I would get a spectacular photo of the Lorelei rock but it's just a mud-brown outcrop?!
+
+The centre-piece of today was getting up to Heddernheim north of Frankfurt am Main to a camping platz that I spent two summers living in as a student. They've just started turning it into a housing estate.. I looked in and could swear I recognised some of the old Mercs still in there from the summer of 1994!! That goal achieved, all that was left for me was to mosey on down to the Hotel Adler in Babenhausen for the night. Otherwise a pretty unremarkable day. Dinner was a massive doner kebap.
+
 # Day 7: Babenhausen - Creglingen
 
 [Day 7 Strava link](https://www.strava.com/activities/15854489306)
 
-TBC
+The host at Babenhausen is a bit of a character. "Oh ho - Englisch, Englisch! Manchester United, Liverpool, Barcelona!!". After a tense exchange where I establish my Irish credentials "Oh ho - die Grüne Insel!" he point-blank refuses to accept what I'm doing (cycling from Cardiff to Prague). His head is completely blown for about 5 minutes until I break it down stage by stage. He's not thrown for long though, and soon recovers his bants. Large obligatory breakfast done with, I hit the road. Today is shortish - 140km and flat too. I cross over from Hessen into Bayern and BOOM we are in the bible. There are Stations of the Cross, saints guarding bridges, crosses everywhere. It's enough to make a bishop weep..
+
+But another uneventful day, rolling farmland with some nice fast descents. Roll into Creglingen and set up shop at the Pension Herrgottstal. Dinner tonight: Italian - soup followed by a huge pizza and a nice Weizenbier on the side.
+
 # Day 8: Creglingen - Nuremberg
 
 [Day 8 Strava link](https://www.strava.com/activities/15865007659)
