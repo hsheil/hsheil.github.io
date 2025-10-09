@@ -2,6 +2,7 @@
 layout: post
 title:  "Cycling from Cardiff to Prague"
 date:   2025-09-29 09:39:00 +0100
+last_modified_at: 2025-10-09 11:30:00 +0100
 categories: cycling
 excerpt: A bucket list adventure where everything just went right.
 ---

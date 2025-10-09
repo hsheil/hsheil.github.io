@@ -24,7 +24,7 @@ random.choice(['Runner',
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <small> - {{ post.date | date: "%B %d, %Y" }}</small>
+      <small> - {{ post.last_modified_at | default: post.date | date: "%b %-d, %Y" }}</small>
     </li>
   {% endfor %}
 </ul>
