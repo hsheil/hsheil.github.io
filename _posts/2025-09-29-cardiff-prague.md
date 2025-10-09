@@ -198,11 +198,27 @@ But another uneventful day, rolling farmland with some nice fast descents. Roll 
 
 [Day 8 Strava link](https://www.strava.com/activities/15865007659)
 
+Started the day with a traditional Bayern breakfast in the Pension, including a soft-boiled egg on the side 😍.
+
+The bike is running like a champ and with the dry weather, I've decided to lube the chain every second day, same with checking tyre pressures. That done, it's time to hit the road.
+
+I think today is actually the shortest day of the tour, so I'm ambling along just watching the world go by and generally taking the piss. Stop at a Backerei inside a Norma supermarket about 12 where I get my first rough sandwich of the tour. Eat half and bin the rest, make up for it with cheesecake which is an acceptable alternative form of fueling in my book.
+
+From Fürth onwards into Nürnberg I'm on a river cycle path and things starts to get real. Cyclists tend to have a sixth sense for other shit cyclists - either at the individual level or group level. Nürnberg is shitty at the group level. This river path is dangerous - cyclists whizzing past walkers at speed barely tucking back over in time, not slowing down at Y or T junctions.
+
+I start to cycle defensively, which counter-intuitively can often mean speeding up to get past a dangerous or shonky rider and into clear air. About 7km from the hotel I see my first and only accident of the tour - a cyclist down at a Y-junction with his head split open and claret all over the floor. Obviously got hit hard by another rider. Looks concussed, flat on the floor and not looking like he's moving anytime soon. 3 other riders around him and a woman stops to give first-aid.. 
+
+Nuremberg has "Disco Stadt" as their contribution towards Oktoberfest. Tried to cycle through it but after they're already on it and after the 5th drunk guy stumbles out in front of me I give up and just walk to get over the river
+
+Get a nice photo at a water wheel, visit Zeppelin Stadium where there used to be mad night-time parties back in the day (geddit?) and then to the Novotel Hotel. 
+
+Another massive doner kebap for dinner and two bags of sweets.
+
 # Day 9: Nuremberg - Plzen
 
 [Day 9 Strava link](https://www.strava.com/activities/15879239862)
 
-Woke up feeling pretty rough - not a good start with a big day ahead. Tried to eat a big breakfast but just had no appetite. Opposite me a big German dad was talking to his daughter, talking about how he spent 30 years working for Airbus or something and then it's all suddenly over and he's kicked out on his arse and she should do what makes her happy. "Try cycling 1,500 km Helmut and see how you feel" I mutter to myself as I gag on another semmel bread roll with shiny ham and plasticky cheese, washed down with generic machine coffee that doesn't improve anything about this breakfast.
+Woke up feeling pretty rough for no good reason - not a good start with a big day ahead. Tried to eat a big breakfast but just had no appetite. Opposite me a big German dad was talking to his daughter, talking about how he spent 30 years working for Airbus or something and then it's all suddenly over and he's kicked out on his arse and she should do what makes her happy. "Try cycling 1,500 km Helmut and see how you feel" I mutter to myself as I gag on another semmel bread roll with shiny ham and plasticky cheese, washed down with generic machine coffee that doesn't improve anything about this breakfast.
 
 Roll out past Wordersee where Nuremberg has its Parkrun. If the segment was shorter I would have run it just for the parkrun tourism points but no parkrun heroics today.. I've got loads of sweets and chocolate on-board in the hope that my appetite will return once I get going.
 
