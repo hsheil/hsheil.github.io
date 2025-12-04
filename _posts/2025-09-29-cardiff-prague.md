@@ -173,11 +173,20 @@ The only thing marking the NL - DE border is a strange memorial to an airforce f
 
 No-one ever talks about the weird chemical smell on the Rhine, but it is ever-present. It's not deeply unpleasant but it's not nice either, it's just part of the scenery..
 
-# Day 5: Cologne - Babarach
+# Day 5: Cologne - Bacharach
 
 [Day 5 Strava link](https://www.strava.com/activities/15831328448)
 
-TBC
+Had a decent breakfast in Hotel und Restaurant Löwenbräu - slap-bang on the river. The night before I had a nice walk around Köln and got a lovely picture of the cathedral right at sunset after a rain shower. Hankered after a big deoner kebap so found a place with good Google reviews and jobs a good 'un. 140 km to get done today but also flat as a pancake so no trouble expected really. Weather continually getting better too. That weird Rhine smell still comes and goes but hey-ho.
+
+Today's route takes me through Bonn and Koblenz - Koblenz another victim of the German penchant for replacing 'C' with 'K' in the [German Orthographic Conference of 1901](https://en.wikipedia.org/wiki/German_Orthographic_Conference_of_1901). I do think it's a bit mad to do this, and they've done it multiple times. Languages are alive and ever-evolving, there's no need to "push" them - simple majority / popularity wins out over time.
+
+Bonn and Koblenz are nice if unremarkable, rain threatens for a while and I can see it raining in front of me on the Rhine but not actually *on* me. Therefore also a couple of pretty rainbows..
+
+One sombre moment is the Remagen Bridge, captured by the 99th Infantry Division March 10-11, 1945. The stubbed and blackened ruins of the bases still remain along with plaques erected in 1985 and 1988. There are flags on show and some people sitting on benches too. WW2 was such a pivotal moment in Western history, but it's almost completely forgotten now.
+
+Arrive into Bacharach just as the rain starts - perfect timing. Staying at the Bacharacher Hof and have pizza for dinner - they accepted cash only so whittled away some of my euros. Pizza was nice though.. Almost at the half-way point!
+
 # Day 6: Babarach - Babenhausen
 
 [Day 6 Strava link](https://www.strava.com/activities/15843742478)
@@ -185,7 +194,7 @@ Today was the day to start tacking east, having completed a lot of the south I n
 
 By this stage, I'm pretty much done with the Rhine. It's hard to take good photos / videos of it because it is just a flat, wide river. Thought I would get a spectacular photo of the Lorelei rock but it's just a mud-brown outcrop?!
 
-The centre-piece of today was getting up to Heddernheim north of Frankfurt am Main to a camping platz that I spent two summers living in as a student. They've just started turning it into a housing estate.. I looked in and could swear I recognised some of the old Mercs still in there from the summer of 1994!! That goal achieved, all that was left for me was to mosey on down to the Hotel Adler in Babenhausen for the night. Otherwise a pretty unremarkable day. Dinner was a massive doner kebap.
+The centre-piece of today was getting up to Heddernheim north of Frankfurt am Main to a camping platz that I spent two summers living in as a student. They've just started turning it into a housing estate.. I looked in and could swear I recognised some of the old Mercs still in there from the summer of 1994!! That goal achieved, all that was left for me was to mosey on down to the Hotel Adler in Babenhausen for the night. Otherwise a pretty unremarkable day. Dinner was a massive doner kebap (two days in a row!).
 
 # Day 7: Babenhausen - Creglingen
 
