@@ -177,7 +177,7 @@ No-one ever talks about the weird chemical smell on the Rhine, but it is ever-pr
 
 [Day 5 Strava link](https://www.strava.com/activities/15831328448)
 
-Had a decent breakfast in Hotel und Restaurant Löwenbräu - slap-bang on the river. The night before I had a nice walk around Köln and got a lovely picture of the cathedral right at sunset after a rain shower. Hankered after a big deoner kebap so found a place with good Google reviews and jobs a good 'un. 140 km to get done today but also flat as a pancake so no trouble expected really. Weather continually getting better too. That weird Rhine smell still comes and goes but hey-ho.
+Had a decent breakfast in Hotel und Restaurant Löwenbräu - slap-bang on the river. The night before I had a nice walk around Köln and got a lovely picture of the cathedral right at sunset after a rain shower. Hankered after a big doner kebap so found a place with good Google reviews and jobs a good 'un. 140 km to get done today but also flat as a pancake so no trouble expected really. Weather continually getting better too. That weird Rhine smell still comes and goes but hey-ho.
 
 Today's route takes me through Bonn and Koblenz - Koblenz another victim of the German penchant for replacing 'C' with 'K' in the [German Orthographic Conference of 1901](https://en.wikipedia.org/wiki/German_Orthographic_Conference_of_1901). I do think it's a bit mad to do this, and they've done it multiple times. Languages are alive and ever-evolving, there's no need to "push" them - simple majority / popularity wins out over time.
 
