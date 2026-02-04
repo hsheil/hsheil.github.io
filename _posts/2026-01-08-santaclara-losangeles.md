@@ -9,7 +9,7 @@ excerpt: A sojourn down the Pacific Coast Highway on Route 1.
 
 # Preserving
 
-[MLSys]() is one of the better Machine Learning conferences in my opinion. Some really good papers and posters covering indepth, practical aspects of scaling up / making ML systems more efficient at train and inference time.
+[MLSys](https://mlsys.org/) is one of the better Machine Learning conferences in my opinion. Some really good papers and posters covering indepth, practical aspects of scaling up / making ML systems more efficient at train and inference time.
 
 It also happens to be on the west coast each year so this year I tagged a bit of a bucket list trip onto it..
 
@@ -31,6 +31,8 @@ The last thing I had to do was throw all my clothes into the trash! I could only
 
 And we're off! Dry and sunny, a bit cool. I meandered through top-class cycling infrastructure sponsored by Google and Meta. Stopped at 1 Hacker Way to get a picture of the old Sun Microsystems sign, then pushed on to San Francisco. Dodged the lemming tourists to get my obligatory pic at the Golden Gate bridge, then through the Presidio and onto the coast road proper.
 
+Weirdly, the first 10km or so of the coast road is closed to cars but open for me. Because it's been closed, the sand has encroached onto it (dangerous in places) and there is a real post-apocalyptic feel to it. Cool but a bit freaky..
+
 240km and 1650m elevation today, but didn't feel like that at all - everything was so interesting and new..
 
 
@@ -48,26 +50,39 @@ Carmel by the Sea is a bit twee for my liking but nice enough. I used to work in
 
 Today was always going to involve tacking inland. The PCH has been closed for a couple of years due to a massive landslide. The coastal geography and how they've built Route 1 dictates this.
 
+As I head inland, the temperature ramps considerably - there is a real cooling effect of the coastal wind missing here. Stop for lunch in King City - a real one-horse town, fill my water bottles and get going again.
 
-In Paso Robles, my hotel is really nice. I'm absolutely f**king knackered so run a hot bath just to lie in for an hour. Eat my weight at dinner and then a good night sleep.
+A combination of the heat and probably all the bread I had at lunch but I'm going through the water like no-one's business, cross a county line and the road surface deteriorates into terrible rutted condition. Very thirsty now and one pothole away from a puncture or buckled wheel and my mind is diligently examining worse-case scenarios. Solo bike touring is a lot about problem-solving - navigation, mechanicals, fueling, weather - and I need to find water. Spot what looks like a deserted farmstead straight out of a Stephen King novel and decide to see if I can find a hose in the farmyard.
+
+I reluctantly enter - fully expecting either a snarling dog or a shotgun blast. No sign of any hose or tap.. shout hello a few times, no sign of life. Just about to give up when I spot a tap! Just then a woman comes out of the house with two icy bottles of water - lifesaver! She won't take payment and says the tap water isn't drinkable - couldn't be nicer and I get the impression I'm not the first cyclist to run out of water around here.
+
+My faith in humanity restored, time to crack on. Very hot now and windless too. Rollers to Paso Robles with California ground squirrels doing their level best to get into my spokes and give themselves (and me) a very, very bad day.
+
+227 km and 1500m climbing later, I'm rolling into Paso Robles
+
+In Paso Robles, my hotel (The Oaks Hotel and Suites) is really nice. I'm absolutely f**king knackered so run a hot bath just to lie in for an hour. Eat my weight at dinner and then a good night sleep.
 
 # Day 4: Paso Robles - Cambria - Harmony - Cayucos - Morro
 
 [Day 4 Strava link](https://www.strava.com/activities/14532573121)
 
-A short day today but the climbs and descents - wowzers! Getting back on the coast from Paso Robles is a real treat - a decent climb but on smooth tarmac and the vistas down to the coast are awesome. Lots of roadworks but nothing to hold me up really. At the coast I could have turned right to go up to the landslide but I just can't be arsed. Lunch at Cayucos, then push on to Morro. Another dry, sunny day - just like every day so far on this trip, blessed.. To cap it off, got a beautiful picture of the sunset in Morro Bay..
+A short day today but the climbs out of Paso Robles and then the descents down to the coast (and back on track) - wowzers! Getting back on the coast from Paso Robles is a real treat - a decent climb but on smooth tarmac and the vistas down to the coast are awesome. Lots of roadworks but nothing to hold me up really. At the coast I could have turned right to go up to the landslide but I just can't be arsed. Lunch at Cayucos, then push on to Morro. Another dry, sunny day - just like every day so far on this trip, blessed.. To cap it off, got a beautiful picture of the sunset in Morro Bay..
 
 # Day 5: Morro - Pismo Beach - Guadalupe - Orcutt - Lompoc
 
 [Day 5 Strava link](https://www.strava.com/activities/14544326017)
 
-After another sugar-filled breakfast, it's time to hit the road.
+After another sugar-filled breakfast, it's time to hit the road. Roll into Pismo beach and get a cool picture next to the sign. Quite busy and get collared to take other people's photos too. In the mood for pushing on today so keep the head down and roll from town to town.
 
 # Day 6: Lompoc - Gaviota - El Capitan - Goleta - Santa Barbara - Ventura
 
 [Day 6 Strava link](https://www.strava.com/activities/14555686735)
 
-The goal for today.
+The road starts to get quite busy now and for the first time I'm sharing the carriageway with US drivers as there is no hard shoulder. It's not good and they're not bike-friendly at all really. Some parts of the road today are downright dangerous and you really need to have your wits about you.
+
+Get to a steepish long descent, half-way down it the hard shoulder disappears because the road narrows to go over a bridge. Right as I come onto the road a massive double-trailer truck thunders past. Fuck this I've had enough - statistically that is a real wake-up call. Get off the road and find a completely over-grown bike path nestled up on the hillside, looks like I'm the first person to be on it in years but it's safe.
+
+The road gets gnarly again on the run into Goleta where I meet a friend for lunch and we roll together to Santa Barbara. Solo again to get to Ventura with some cool kite surfing viewing to wrap up the day.
 
 # Day 7: Ventura - Malibu - Santa Monica -Hollywood - Los Angeles. End of tour!
 
