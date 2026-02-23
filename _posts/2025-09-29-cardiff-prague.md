@@ -141,6 +141,8 @@ for i, ride in enumerate(rides):
 
 [Day 1 Strava link](https://www.strava.com/activities/15788198142)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15788198142" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 Right from the off the weather forecast looked disastrous. Monsoon bands of rain roaming at will across South Wales and gale force winds predicted on the Holland coast in two days time.. Got up at 7 am and spent 2 hours packing and faffing and looking out the window in angst. Then the rain stopped and at 09:15 I just went for it. Bone-dry all the way to the Severn bridge and over it too! But the ominous clouds eventually closed in and I got battered by rain just over the border in England - from Hill all the way to Berkeley and Ham.
 
 Deep in the Gloucester countryside I turned down a narrow lane which clearly went through a farmyard and suddenly and without warning - there he was. An Irish wolfhound the size of a f**king shetland pony. He did a comical double-take at me a la a Wily E Coyote cartoon and then he and I were off to the races. This dog just could not believe his luck and I pedalled so hard that I earned a life-time 5 minute max power output later on as he loped beside me, trying to angle in for a big juicy bite of my calf. Bastard.. took a while for my heartrate to come down after that!
@@ -151,6 +153,8 @@ Stopped at the Waitrose in Stroud and spent 10 minutes listening to two teenager
 
 [Day 2 Strava link](https://www.strava.com/activities/15800470071)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15800470071" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 The weather forecast promised virtually zero rain today and that turned out to be total bullshit. Even though today was 211 km, the ferry didn't go until 11 pm so I really only wanted to get there at dusk to avoid cycling in the dark. The heavens opened at Chelmsford and Colchester - Chelmsford having the added bonus of hail to get things going with a bang before moving onto the kind of big, fat, heavy raindrops that bounce off the tarmac. Cyclists are like eskimoes with snow - we recognise over 100 different types of rain!
 
 I probably navigated too close to London - going through Barnet, Cockfosters and Enfield. I carefully negotiated drivers sitting in traffic who were slowly going insane. Got to Harwich just after 7 pm and celebrated with a double Big Mac meal before getting on the ferry. Two biggest days in the bag albeit with some rain attrition..
@@ -159,6 +163,8 @@ I probably navigated too close to London - going through Barnet, Cockfosters and
 
 [Day 3 Strava link](https://www.strava.com/activities/15809784065)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15809784065" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 The ferry got in bang on time. There was some kind of classic car tour onboard so got slightly high breathing in raw petrol fumes on the car deck before dismebarking. Cycled straight into the customs red zone and some questioning looks from Dutch police. Told them I had nothing to declare and they told me politely to piss off then! Anxiously scanning the skies looking for the forecast gale-force winds but it was just a spicy cross-wind - bonus!
 
 I've read about the Dutch cycling infrastructure but you really have to cycle it to believe it. Cycling exists as an entirely separate transport type to driving and drivers really respect cyclists. Heaven.. 
@@ -166,6 +172,8 @@ I've read about the Dutch cycling infrastructure but you really have to cycle it
 # Day 4: Eindhoven - Cologne
 
 [Day 4 Strava link](https://www.strava.com/activities/15820487869)
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15820487869" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 Today was the day with forecast 60 mph wind gusts which would be unrideable. My hotel in Eindhoven turned out to be a safe haven for recovering addicts which they didn't advertise very hard on booking.com I can tell you.. the only addict I saw in there was a young kid who put up a bit of a struggle when they took his phone off him. Prob no more addicted than 50% of the adult population of Western Europe..
 
@@ -176,6 +184,8 @@ No-one ever talks about the weird chemical smell on the Rhine, but it is ever-pr
 # Day 5: Cologne - Bacharach
 
 [Day 5 Strava link](https://www.strava.com/activities/15831328448)
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15831328448" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 Had a decent breakfast in Hotel und Restaurant Löwenbräu - slap-bang on the river. The night before I had a nice walk around Köln and got a lovely picture of the cathedral right at sunset after a rain shower. Hankered after a big doner kebap so found a place with good Google reviews and jobs a good 'un. 140 km to get done today but also flat as a pancake so no trouble expected really. Weather continually getting better too. That weird Rhine smell still comes and goes but hey-ho.
 
@@ -190,6 +200,9 @@ Arrive into Bacharach just as the rain starts - perfect timing. Staying at the B
 # Day 6: Babarach - Babenhausen
 
 [Day 6 Strava link](https://www.strava.com/activities/15843742478)
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15843742478" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 Today was the day to start tacking east, having completed a lot of the south I needed to do. Left Babarach about 09:30 and 5 km the map is showing me a non-existent bridge over the Rhine. For a minute I thought about looking for a tunnel entrance (!) but then realised it was actually a ferry crossing over to Lorch on the east bank of the river. Frequency every 20 mins so not too bad.
 
 By this stage, I'm pretty much done with the Rhine. It's hard to take good photos / videos of it because it is just a flat, wide river. Thought I would get a spectacular photo of the Lorelei rock but it's just a mud-brown outcrop?!
@@ -200,6 +213,8 @@ The centre-piece of today was getting up to Heddernheim north of Frankfurt am Ma
 
 [Day 7 Strava link](https://www.strava.com/activities/15854489306)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15854489306" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 The host at Babenhausen is a bit of a character. "Oh ho - Englisch, Englisch! Manchester United, Liverpool, Barcelona!!". After a tense exchange where I establish my Irish credentials "Oh ho - die Grüne Insel!" he point-blank refuses to accept what I'm doing (cycling from Cardiff to Prague). His head is completely blown for about 5 minutes until I break it down stage by stage. He's not thrown for long though, and soon recovers his bants. Large obligatory breakfast done with, I hit the road. Today is shortish - 140km and flat too. I cross over from Hessen into Bayern and BOOM we are in the bible. There are Stations of the Cross, saints guarding bridges, crosses everywhere. It's enough to make a bishop weep..
 
 But another uneventful day, rolling farmland with some nice fast descents. Roll into Creglingen and set up shop at the Pension Herrgottstal. Dinner tonight: Italian - soup followed by a huge pizza and a nice Weizenbier on the side.
@@ -207,6 +222,8 @@ But another uneventful day, rolling farmland with some nice fast descents. Roll 
 # Day 8: Creglingen - Nuremberg
 
 [Day 8 Strava link](https://www.strava.com/activities/15865007659)
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15865007659" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 Started the day with a traditional Bayern breakfast in the Pension, including a soft-boiled egg on the side 😍.
 
@@ -228,6 +245,8 @@ Another massive doner kebap for dinner and two bags of sweets.
 
 [Day 9 Strava link](https://www.strava.com/activities/15879239862)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15879239862" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 Woke up feeling pretty rough for no good reason - not a good start with a big day ahead. Tried to eat a big breakfast but just had no appetite. Opposite me a big German dad was talking to his daughter, talking about how he spent 30 years working for Airbus or something and then it's all suddenly over and he's kicked out on his arse and she should do what makes her happy. "Try cycling 1,500 km Helmut and see how you feel" I mutter to myself as I gag on another semmel bread roll with shiny ham and plasticky cheese, washed down with generic machine coffee that doesn't improve anything about this breakfast.
 
 Roll out past Wordersee where Nuremberg has its Parkrun. If the segment was shorter I would have run it just for the parkrun tourism points but no parkrun heroics today.. I've got loads of sweets and chocolate on-board in the hope that my appetite will return once I get going.
@@ -242,6 +261,8 @@ I'm realising that Czech drivers are nowhere near as good or nice as German or D
 # Day 10: Plzen - Prague!
 
 [Day 10 Strava link](https://www.strava.com/activities/15889002946)
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15889002946" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 Hot again right from the start with peak temps of 33 degrees expected by mid-afternoon. Legs tired after the big segment yesterday but that was very much cancelled out by the knowing today was the last day. Got a good breakfast at the hotel airlifted out of the USSR and proceeded out of Plzen past the huge Skoda factory. I decided to get more aggressive with the map and stayed on main roads even though cycle.travel / RideWithGPS was sending me down narrow lanes. I still had the ancestral memory of that wolfhound in Oxfordshire even though he was now 1,400km away but still probably dreaming about me in his sleep. The Czechs love alsatians and alsatians like chasing cyclists so let's not mix them eh?
 

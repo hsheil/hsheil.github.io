@@ -23,6 +23,8 @@ I hadn't cycled at all in the states before and was a bit wary of the road manne
 
 [Day 1 Strava link](https://www.strava.com/activities/14503751557)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14503751557" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 Day 1 was a strange start. I had spent the previous five days immersed in AI/ML at the Santa Clara Convention Center (usually the epicentre of the annual NVIDIA love-in) and so I hadn't really been thinking about cycling at all. I assembled my touring bike and gear in my hotel room (don't know what the cleaners thought about this!) and spent a couple of nights faffing with the brakes which would just not stop rubbing, adjusting saddle height. 
 
 Finally we're ready to go. I head down to breakfast - sickly sweet muffins, fruit loops, those weird waffles / pancakes you pour yourself into the griddle, tons of bad american coffee. This type of breakfast was to be a feature of this trip!
@@ -40,6 +42,8 @@ Weirdly, the first 10km or so of the coast road is closed to cars but open for m
 
 [Day 2 Strava link](https://www.strava.com/activities/14512813628)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14512813628" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 Day 2 starts poorly - my hotel doesn't do breakfast. I've still got some jelly babies from yesterday so they do to get started then pick up breakfast in a McDonalds. In general on this trip when I see a McDonalds I go in and have something - the food is shit but you know what you're going to get. When you're burning 4,000+ calories per day on the bike a gentle "between" snack is a Big Mac meal!
 
 Carmel by the Sea is a bit twee for my liking but nice enough. I used to work in SF and it seems familiar to me - maybe I was here for a day all those years ago? It's hilly to get into and out of though, and I know I've got a big day tomorrow (little did I know!) so I head for Monterey and my hotel for the night.
@@ -47,6 +51,8 @@ Carmel by the Sea is a bit twee for my liking but nice enough. I used to work in
 # Day 3: Monterey - Paso Robles
 
 [Day 3 Strava link](https://www.strava.com/activities/14524533005)
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14524533005" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 Today was always going to involve tacking inland. The PCH has been closed for a couple of years due to a massive landslide. The coastal geography and how they've built Route 1 dictates this.
 
@@ -66,17 +72,23 @@ In Paso Robles, my hotel (The Oaks Hotel and Suites) is really nice. I'm absolut
 
 [Day 4 Strava link](https://www.strava.com/activities/14532573121)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14532573121" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 A short day today but the climbs out of Paso Robles and then the descents down to the coast (and back on track) - wowzers! Getting back on the coast from Paso Robles is a real treat - a decent climb but on smooth tarmac and the vistas down to the coast are awesome. Lots of roadworks but nothing to hold me up really. At the coast I could have turned right to go up to the landslide but I just can't be arsed. Lunch at Cayucos, then push on to Morro. Another dry, sunny day - just like every day so far on this trip, blessed.. To cap it off, got a beautiful picture of the sunset in Morro Bay..
 
 # Day 5: Morro - Pismo Beach - Guadalupe - Orcutt - Lompoc
 
 [Day 5 Strava link](https://www.strava.com/activities/14544326017)
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14544326017" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 After another sugar-filled breakfast, it's time to hit the road. Roll into Pismo beach and get a cool picture next to the sign. Quite busy and get collared to take other people's photos too. In the mood for pushing on today so keep the head down and roll from town to town.
 
 # Day 6: Lompoc - Gaviota - El Capitan - Goleta - Santa Barbara - Ventura
 
 [Day 6 Strava link](https://www.strava.com/activities/14555686735)
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14555686735" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 The road starts to get quite busy now and for the first time I'm sharing the carriageway with US drivers as there is no hard shoulder. It's not good and they're not bike-friendly at all really. Some parts of the road today are downright dangerous and you really need to have your wits about you.
 
@@ -88,8 +100,7 @@ The road gets gnarly again on the run into Goleta where I meet a friend for lunc
 
 [Day 7 Strava link](https://www.strava.com/activities/14565559641)
 
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14565559641" data-style="standard" data-from-embed="false"></div>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14565559641" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 Last day and I'm gutted! This has been a trip to remember, for all the right reasons.
 
