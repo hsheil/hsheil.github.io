@@ -88,6 +88,9 @@ The road gets gnarly again on the run into Goleta where I meet a friend for lunc
 
 [Day 7 Strava link](https://www.strava.com/activities/14565559641)
 
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14565559641" data-style="standard" data-from-embed="false"></div>
+
 Last day and I'm gutted! This has been a trip to remember, for all the right reasons.
 
 The goal is the Hollywood sign vista point which is miles away from the sign itself. I want this photo to go with the one I got in San Francisco at the Golden Gate bridge as two book-ends for the trip..
