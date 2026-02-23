@@ -155,9 +155,11 @@ Stopped at the Waitrose in Stroud and spent 10 minutes listening to two teenager
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15800470071" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-The weather forecast promised virtually zero rain today and that turned out to be total bullshit. Even though today was 211 km, the ferry didn't go until 11 pm so I really only wanted to get there at dusk to avoid cycling in the dark. The heavens opened at Chelmsford and Colchester - Chelmsford having the added bonus of hail to get things going with a bang before moving onto the kind of big, fat, heavy raindrops that bounce off the tarmac. Cyclists are like eskimoes with snow - we recognise over 100 different types of rain!
+The weather forecast promised virtually zero rain today and that turned out to be total bullshit. Even though today was 211 km, the ferry didn't go until 11 pm so I really only wanted to get there at dusk - so avoid cycling in the dark but also avoid lots of waiting around to board the ferry. The heavens opened at Chelmsford and Colchester - Chelmsford having the added bonus of hail to get things going with a bang before moving onto the kind of big, fat, heavy raindrops that bounce off the tarmac. Cyclists are like eskimoes with snow - we recognise over 100 different types of rain!
 
 I probably navigated too close to London - going through Barnet, Cockfosters and Enfield. I carefully negotiated drivers sitting in traffic who were slowly going insane. Got to Harwich just after 7 pm and celebrated with a double Big Mac meal before getting on the ferry. Two biggest days in the bag albeit with some rain attrition..
+
+Next to Lidl for chocs and sweets where my rockbros cycling glasses break (!), then in the queue for the ferry - the car ahead of me has dutch plates with two guys smoking cigarettes and throwing their butts out on the tarmac - charming.. Delighted to get into the cabin and have a shower and some more food before hitting the bunk.
 
 # Day 3: Hook of Holland - Eindhoven
 
@@ -165,9 +167,11 @@ I probably navigated too close to London - going through Barnet, Cockfosters and
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15809784065" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-The ferry got in bang on time. There was some kind of classic car tour onboard so got slightly high breathing in raw petrol fumes on the car deck before dismebarking. Cycled straight into the customs red zone and some questioning looks from Dutch police. Told them I had nothing to declare and they told me politely to piss off then! Anxiously scanning the skies looking for the forecast gale-force winds but it was just a spicy cross-wind - bonus!
+The ferry got in bang on time. Not a great night sleep but somehow feel pretty fresh, especially after two decent days back to back. There was some kind of classic car tour onboard so got slightly high breathing in raw petrol fumes on the car deck before dismebarking. Cycled straight into the customs red zone and some questioning looks from Dutch police. Told them I had nothing to declare and they told me politely to piss off then! Anxiously scanning the skies looking for the forecast gale-force winds but it was just a spicy cross-wind - bonus!
 
 I've read about the Dutch cycling infrastructure but you really have to cycle it to believe it. Cycling exists as an entirely separate transport type to driving and drivers really respect cyclists. Heaven.. 
+
+Straight into a Shell garage for a breakfast meal deal. Some faffing at the counter and it costs about 10 euros. Then the lady comes down to me and says I was overcharged so I must go back up the counter immediately and re-insert my credit card. 5 minutes later and I've got 4 euros back and on my way..
 
 # Day 4: Eindhoven - Cologne
 
@@ -179,7 +183,11 @@ Today was the day with forecast 60 mph wind gusts which would be unrideable. My 
 
 The only thing marking the NL - DE border is a strange memorial to an airforce fight in 1939 - 1940 deep in the middle of the forest. Apart from that, the signage changed and that was that.
 
-No-one ever talks about the weird chemical smell on the Rhine, but it is ever-present. It's not deeply unpleasant but it's not nice either, it's just part of the scenery..
+Just east of the big 44-52 autobahn interchange east of Mönchengladbach I have my first and only off of the tour. The road surface changes to path - first tarmac, then gravel and finally deep sand. I can see hoof marks in the sand and think I can make it through but it gets too deep and I'm fishtailing. The off itself happens slowly and into deep sand and the only thing hurt is my ego. The first thing to do is look around - no-one saw me. The bike fell derailleur side down but it's just sand. Later I realise that the pedal mech is completely caked in sand and my shoe ain't coming out easy but that's a problem for future Humph.
+
+And just like that, I'm cycling along the Rhine! Cool to have made it here after only four decent days cycling from the front door of my house in Cardiff! No-one ever talks about the weird chemical smell on the Rhine, but it is ever-present. It's not deeply unpleasant but it's not nice either, it's just part of the scenery.. This is very much an industrial segment though, the "castles on hills" segment starts tomorrow..
+
+The hotel in Köln is right on the river - easy to find. They've put me in a tiny cupboard right at the top. I gingerly negotiate the stairs in cleats, shower and head out sight-seeing.
 
 # Day 5: Cologne - Bacharach
 
