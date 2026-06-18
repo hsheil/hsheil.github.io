@@ -9,11 +9,11 @@ excerpt: A mid-summer spin down through France - Normandy, Loire, Rhone, Provenc
 
 # Goal
 
-And so it's time for the Summer 2026 tour. After considering Spain, France rose to top of the pile - good roads, good weather, some iconic climbs and relatively easy to get to from Cardiff once I bridged down to the south coast for a ferry port. 
+And so it's time for the Summer 2026 tour. After considering Spain and indeed further afield, France rose to top of the pile - good roads, good weather, some iconic climbs and relatively easy to get to from Cardiff once I bridged down to the south coast for a ferry port. France is inextricably intertwined with cycling too, the lore of the Tour looms large in any cycling conversation and I was looking forward to taking on some of the hallowed routes.
 
 # How did it go?
 
-It was spectacular - everything I hoped for and more. France is a dream to cycle through - not because the drivers are better (because they are not) but because you can route through deserted D-xx roads where you are the only traffic. Or get onto a dedicated cycleway that runs for 50km in the direction you need to go. The weather was glorious - an hour of rain each of the first 4 days in France, then a mini-heatwave.. Not withstanding some very dodgy brakes, the bike held up well. Just one puncture which failed to seal so I had to put in a tube - nothing else.
+It was spectacular - everything I hoped for and more. France is a dream to cycle through - not because the drivers are better (because they are not) but because you can route through deserted D-xx roads where you are the only traffic. Or get onto a dedicated cycleway that runs for 50km in the direction you need to go. The weather was glorious - an hour of rain each of the first 4 days in France, then a mini-heatwave.. Not withstanding some very dodgy brakes, the bike held up well. Just one puncture which failed to seal so I had to put in a tube - nothing else. I started this tour with some aches and pains (hamstring op inbound..) but actually cycled my way into some form as the days rolled by. By the end of the trip I was fitter than the start and had banked some amazing scenes and experiences. in other words.. job jobbed!
 
 <figure>
     <img src="/images/france-tour-map.png" alt="France tour map" />
@@ -83,7 +83,7 @@ Day 2 is already 10 degrees cooler - 34 down to 24 which is a perfect temp. The 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18716542699" data-style="standard" data-from-embed="false" data-token="d5257L6RbbYFSL2eb-QGpEg713rrFCcS_swZZdXcE8U"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-Didn't get breakfast onboard, so stopped at a Lidl to replenish and then again at a cafe for a morning coffee. Straight out the gate, the roads are better than the UK. I wouldn't necessarily say the drivers are though. All this talk about french drivers loving and respecting cyclists is merde. I'm tootling along the polders east of St Malo when I start seeing road signage for Mont St Michel which rings a bell. After a quick search I immediately recognise the iconic silhouette and immediately come off my route to get there. Didn't realise I'd be so close to it! The tide is out so I can cycle right up to it and get a great photograph. Stopped close by to have a nice pepperoni pizza and coke + coffee - a staple. The day gets quite warm in the afternoon and my chambre d'hote has a nice swimming pool to cool down in, but not before I sit on the bed and collapse it - and I've been watching my diet for this trip and all!
+Didn't get breakfast onboard, so stopped at a Lidl to replenish and then again at a cafe for a morning coffee. Straight out the gate, the roads are better than the UK. I wouldn't necessarily say the drivers are though. All this talk about french drivers loving and respecting cyclists is merde. I'm tootling along the polders east of St Malo when I start seeing road signage for Mont St Michel which rings a bell. After a quick search I immediately recognise the iconic silhouette and divert to get there. Didn't realise I'd be so close to it! The tide is out so I can cycle right up to it and get a great photograph. Stopped close by to have a nice pepperoni pizza and coke + coffee - a staple. The day gets quite warm in the afternoon and my chambre d'hote has a nice swimming pool to cool down in, but not before I sit on the bed and collapse it - and I've been watching my diet for this trip and all!
 
 # Day 4: Notre-Dame-du-Touchet (Mortain Bocage) - Coulonges-sur-Sarthe
 
@@ -91,7 +91,7 @@ Didn't get breakfast onboard, so stopped at a Lidl to replenish and then again a
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18730096107" data-style="standard" data-from-embed="false" data-token="XLDMCsFJUYwkFgxFelYigDO-aO7efTV9RV_qkY8Kfbg"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 4 narrative.]
+It's hot again and after a decent breakfast it's time to hit the road. My rusty french is under serious pressure because when staying at a chambre d’hôte, it is customary to have a bit of a chat with the host. Last night it was PSG vs Arsenal so I had to discuss (a) the riots, (b) immigration and trends in immigration between 2006 and 2026, (c) Brexit, (d) the French election next year and (e) long distance cycling. Bit of an upgrade from "le chomage and le fumer" from my lessons! Today I stumble on a glorious chateau at Carrouges and a pink-tagged Sherman tank guarding a crossroads from the July 1944 offensive. 1,250 metres of climbing but nothing ever strenuous, just lumps. At the end, I gatecrash a pretty serious bike race and have to do a fair old clip to avoid being swamped by the peloton. Lodgings tonight are in an old country house with my bedroom straight out of the 17th century. Cool though, and sleep well.
 
 # Day 5: Coulonges-sur-Sarthe - Bonneval
 
@@ -99,7 +99,7 @@ Didn't get breakfast onboard, so stopped at a Lidl to replenish and then again a
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18741740939" data-style="standard" data-from-embed="false" data-token="_5Pk8VDjUzm-KFa3fbmqj4t0AfDS8E9Evnyjwnitqvg"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 5 narrative.]
+A crowing cock kicks off about 6 am and then cycles on and off until I get up at 8. Decent breakfast again and on we go. The destination today is Bonneval, on "la Loire", which is a tributary of "le Loire". Not confusing at all. I'm sure that I'm absolutely murdering masculine, feminine and neutral pronouns as I cycle through France but everyone I speak to seems delighted that I'm just giving it a go. They all assume I'm English and if I do a good job in French I make sure to tell them I'm Irish, otherwise I just let them think they're talking to a thick Anglais. Every town I go through no matter how big or small has a 'Mairie' or town hall, some of them are very pretty so get a few pics. About 25 km out, get onto the D27 - a nice, fast, flat road with a tailwind. Good because it's getting hot and I want to get off the bike. Roll into town and into the digs.
 
 # Day 6: Bonneval - Sully-sur-Loire
 
@@ -107,7 +107,7 @@ Didn't get breakfast onboard, so stopped at a Lidl to replenish and then again a
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18756315478" data-style="standard" data-from-embed="false" data-token="YqlaAN3UGvpFYNy-AUXp4MjsVAjUQHtx2-wDSvR1E9s"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 6 narrative.]
+Last night had a 4 course meal with cheese and dessert so feel like a barrel getting on the bike today. Goal is Sully on the Loire but the big deal should be wicking through Orléans and getting my first glimpse of the Loire! Orléans is very picturesque and I spot a McDonalds which I quite fancy. As I lock up with my utterly useless lock, I spot some gypsies stop and start to eye up my bike and bags. Fuck that I'm not losing everything on Day 6, so I unlock - as I do, they just amble on not even trying to hide their previous intent. About half a mile later I spot a boulangerie where I can eat with my bike. Then it's time to follow the Loire southeast to Sully for a well-deserved dinner.
 
 # Day 7: Sully-sur-Loire - Marzy
 
@@ -115,7 +115,7 @@ Didn't get breakfast onboard, so stopped at a Lidl to replenish and then again a
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18771194182" data-style="standard" data-from-embed="false" data-token="zHaswd3FSmFfVQAlX3SvrsXSA7JsIaUMpCjbubMW2eQ"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 7 narrative.]
+Teeth felt weird brushing last night and I realised that somehow I've cracked one of them and I'm now flying with 3.5 main front teeth instead of the usual quota of 4. No pain but I can whistle through it which keeps me amused like a child for about an hour on the bike. Route around my first big nuclear powerplant and puncture right beside it. Tubeless won't seal (tubeless is shit) and I run a lithium-ion compressor which has 2 full inflations in it. I don't want to faff trying to get it to seal so I just bung a TPU tube straight in and get back on the road. Today really marks the start of an interesting game which is "how many bridges can I cross today?".
 
 # Day 8: Marzy - Diou
 
