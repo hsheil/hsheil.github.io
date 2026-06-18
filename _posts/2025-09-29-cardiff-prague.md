@@ -173,15 +173,17 @@ I've read about the Dutch cycling infrastructure but you really have to cycle it
 
 Straight into a Shell garage for a breakfast meal deal. Some faffing at the counter and it costs about 10 euros. Then the lady comes down to me and says I was overcharged so I must go back up the counter immediately and re-insert my credit card. 5 minutes later and I've got 4 euros back and on my way..
 
+Although it's a bit chilly on the coast, it warms up nicely as I proceed inland. Find another Shell garage about 5km from my hotel and have coffee and cake as I'm not sure about the food sitch. Re-fuelled, tootle to Eindhoven and settle in for the night.
+
 # Day 4: Eindhoven - Cologne
 
 [Day 4 Strava link](https://www.strava.com/activities/15820487869)
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15820487869" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-Today was the day with forecast 60 mph wind gusts which would be unrideable. My hotel in Eindhoven turned out to be a safe haven for recovering addicts which they didn't advertise very hard on booking.com I can tell you.. the only addict I saw in there was a young kid who put up a bit of a struggle when they took his phone off him. Prob no more addicted than 50% of the adult population of Western Europe..
+Today was the day with forecast 60 mph wind gusts which would be unrideable. My hotel in Eindhoven turned out to be a safe haven for recovering addicts which they didn't advertise very hard on booking.com I can tell you.. the only addict I saw in there was a young kid who put up a bit of a struggle when they took his phone off him. Prob no more addicted than 50% of the adult population of Western Europe.. Found a dutch cafe with hundreds of 5-star reviews on Google maps. For the first time ever there was quite a language gap. I ended up with two of everything (!) but was hungry so no problems there..
 
-The only thing marking the NL - DE border is a strange memorial to an airforce fight in 1939 - 1940 deep in the middle of the forest. Apart from that, the signage changed and that was that.
+The only thing marking the NL - DE border is a strange memorial to an airforce fight in 1939 - 1940 deep in the middle of the forest. Apart from that, the signage changed and that was that. The Dutch countryside is pretty flat - I can imagine it getting boring quite quickly. Spicy wind today though, so tacking in and out of cover is the order of the day.
 
 Just east of the big 44-52 autobahn interchange east of Mönchengladbach I have my first and only off of the tour. The road surface changes to path - first tarmac, then gravel and finally deep sand. I can see hoof marks in the sand and think I can make it through but it gets too deep and I'm fishtailing. The off itself happens slowly and into deep sand and the only thing hurt is my ego. The first thing to do is look around - no-one saw me. The bike fell derailleur side down but it's just sand. Later I realise that the pedal mech is completely caked in sand and my shoe ain't coming out easy but that's a problem for future Humph.
 
@@ -195,7 +197,7 @@ The hotel in Köln is right on the river - easy to find. They've put me in a tin
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15831328448" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-Had a decent breakfast in Hotel und Restaurant Löwenbräu - slap-bang on the river. The night before I had a nice walk around Köln and got a lovely picture of the cathedral right at sunset after a rain shower. Hankered after a big doner kebap so found a place with good Google reviews and jobs a good 'un. 140 km to get done today but also flat as a pancake so no trouble expected really. Weather continually getting better too. That weird Rhine smell still comes and goes but hey-ho.
+Had a decent breakfast in Hotel und Restaurant Löwenbräu - slap-bang on the river. The night before I had a nice walk around Köln and got a lovely picture of the cathedral right at sunset after a rain shower. Hankered after a big doner kebap (as the Germans spell it..) so found a place with good Google reviews and jobs a good 'un. 140 km to get done today but also flat as a pancake so no trouble expected really. Weather continually getting better too. That weird Rhine smell still comes and goes but hey-ho.
 
 Today's route takes me through Bonn and Koblenz - Koblenz another victim of the German penchant for replacing 'C' with 'K' in the [German Orthographic Conference of 1901](https://en.wikipedia.org/wiki/German_Orthographic_Conference_of_1901). I do think it's a bit mad to do this, and they've done it multiple times. Languages are alive and ever-evolving, there's no need to "push" them - simple majority / popularity wins out over time.
 
