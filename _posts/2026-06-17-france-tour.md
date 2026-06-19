@@ -115,7 +115,7 @@ Last night had a 4 course meal with cheese and dessert so feel like a barrel get
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18771194182" data-style="standard" data-from-embed="false" data-token="zHaswd3FSmFfVQAlX3SvrsXSA7JsIaUMpCjbubMW2eQ"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-Teeth felt weird brushing last night and I realised that somehow I've cracked one of them and I'm now flying with 3.5 main front teeth instead of the usual quota of 4. No pain but I can whistle through it which keeps me amused like a child for about an hour on the bike. Route around my first big nuclear powerplant and puncture right beside it. Tubeless won't seal (tubeless is shit) and I run a lithium-ion compressor which has 2 full inflations in it. I don't want to faff trying to get it to seal so I just bung a TPU tube straight in and get back on the road. Today really marks the start of an interesting game which is "how many bridges can I cross today?".
+Teeth felt weird brushing last night and I realised that somehow I've cracked one of them and I'm now flying with 3.5 main front teeth instead of the usual quota of 4. No pain but I can whistle through it which keeps me amused like a child for about an hour on the bike. Route around my first big nuclear powerplant and puncture right beside it. Tubeless won't seal (tubeless is shit) and I run a lithium-ion compressor which has 2 full inflations in it. I don't want to faff trying to get it to seal so I just bung a TPU tube straight in and get back on the road. Today really marks the start of an interesting game which is "how many bridges can I cross today?". Apart from the puncture though, it's a straightforward day and arrive into Marzy in good shape.
 
 # Day 8: Marzy - Diou
 
@@ -123,7 +123,7 @@ Teeth felt weird brushing last night and I realised that somehow I've cracked on
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18783610526" data-style="standard" data-from-embed="false" data-token="v5QzEL3sqcprpkd8dWWDkfMWvcmwOWcm8DaD3O8m98w"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 8 narrative.]
+Distance-wise at least I'll roll over the half-way mark today! Leaving Marzy gets me onto the Loire canal path which is a dream to cycle on. Get my half-way pic at a set of lock gates, then negotiate pod after pod after pod of French schoolkids out for a cycle. I've discovered this yoghurt drink and have been quaffing it everyday. It's a belter and along with the nutella biscuits I discovered on day three, my nutrition is beyond reproach. 
 
 # Day 9: Diou - Rozier-en-Donzy
 
@@ -131,7 +131,7 @@ Teeth felt weird brushing last night and I realised that somehow I've cracked on
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18797506026" data-style="standard" data-from-embed="false" data-token="QaztRpl2tUTDVIYz6Lxc-GYCqLXDxHwFZ3do1rfPImM"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 9 narrative.]
+A little bit more climbing today, even though the first 40km is still on the pan-flat canal path. The days are starting to merge together at this point - petit dejeuner at the chambre d'hote -> hit the road -> lunch -> get to the next chambre d'hote. But it's a nice rhythm - this tour isn't some mad endurance event, it's a holiday and I'm enjoying the slow pace and scenery.
 
 # Day 10: Rozier-en-Donzy - Beausemblant
 
@@ -139,7 +139,7 @@ Teeth felt weird brushing last night and I realised that somehow I've cracked on
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18811601266" data-style="standard" data-from-embed="false" data-token="0OsG3IgDTfkANM-0UmHka0aL8U28hJw-A4qXIhAENZA"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 10 narrative.]
+Big day today! Getting close to Lyon AND transitioning away from the Loire and onto the Rhone. Traffic picks up noticeably on the approach to Lyon until I arc away from it. The supermarkets don't fall kindly for me so it's a 5 km detour to find a Carrefour. Supermarkets mean that I'm eating stuff like pain au chocolat / pain aux raisins instead of a proper sandwich but I refill both bottles, get a bag of sweets and the usual yoghurt as well. Very hot today - 30+ and feels like it too. My front brakes are shot, by the sounds of it I'm grinding metal on metal and a hotel maintenance session is in my very near future. Luckily I bought new pads in Southampton back in the UK - I'm just worried about pushing the pistons back fully without proper tools..
 
 # Day 11: Beausemblant - Le Pouzin
 
@@ -147,7 +147,7 @@ Teeth felt weird brushing last night and I realised that somehow I've cracked on
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18823705972" data-style="standard" data-from-embed="false" data-token="s5MkYh8Bc7AtYmFzrMzvH9LOLELzYFib01rei33v9UA"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 11 narrative.]
+On the "ViaRhona" today. As it's a Sunday there isn't much (if anything) open after 12:30 so I find a Lidl early doors and fill my boots. Very hot again today.
 
 # Day 12: Le Pouzin - Mornas
 
