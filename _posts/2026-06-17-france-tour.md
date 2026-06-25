@@ -133,6 +133,8 @@ Distance-wise at least I'll roll over the half-way mark today! Leaving Marzy get
 
 A little bit more climbing today, even though the first 40km is still on the pan-flat canal path. The days are starting to merge together at this point - petit dejeuner at the chambre d'hote -> hit the road -> lunch -> get to the next chambre d'hote. But it's a nice rhythm - this tour isn't some mad endurance event, it's a holiday and I'm enjoying the slow pace and scenery.
 
+The place I'm staying at has sublime food - either the chef or the front-of-house lady is a 5-star cook. Unfortunately however, she's not really a people person. At breakfast she's cracking on about her own home-made chocolate spread to which I reply "Comme Nutella?". Immediately insulted, she rolls her eyes to the dutch couple the next table over as if to say - My God, who is this philistine who doesn't know the difference between nutella and my *pâtes à tartiner*?! Given that this couple managed to lock themselves out of the B&B last night I'm not too arsed what they think. The chocolate spread does taste exceedingly nice though on fresh, crusty bread. Just lose the attitude love.
+
 # Day 10: Rozier-en-Donzy - Beausemblant
 
 [Day 10 Strava link](https://www.strava.com/activities/18811601266)
@@ -163,11 +165,8 @@ On the "ViaRhona" today. As it's a Sunday there isn't much (if anything) open af
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18849329520" data-style="standard" data-from-embed="false" data-token="KKNwUX5Gt5v5euMClO4Rtet769fRYwyh7-pfpVxrcO8"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 13 narrative.]
+Today is the last day before a rest day tomorrow, which in truth I don't really need. The pace has been more than sensible all the way down. Still though, it's hot on the bike (nowhere near as hot as it would get just two weeks later though!). It's only 50k or so today and I stop at Orange to get some pics of the extensive Roman ruins there - very impressive. Mont Ventoux swings into view early on and it looks more and more impressive the closer I get to Bedoin. It stands alone on the skyline - not really part of a mountain range. Gulp. Bedoin is very pretty and twee, although a beehive has invaded the vines in my gite. They're not bothered by me at all though, and after eating I settle in for the night.
 
-<!-- Rest day: no .fit file for 2026-06-10 (between the Mornas->Bédoin leg and the Bédoin/Mont Ventoux loop days). Add a rest-day note here if you want. -->
-
-<!-- Days 14 & 15 are Bédoin-based loops (Mont Ventoux); the file names only give the start, so rename the endpoints here once you know them (e.g. summit / Chalet Reynard / Malaucène). -->
 
 # Day 14: Bédoin - Bédoin (Little Legwarmer)
 
