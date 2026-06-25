@@ -182,7 +182,15 @@ Today is the last day before a rest day tomorrow, which in truth I don't really 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18888984415" data-style="standard" data-from-embed="false" data-token="5tMi6hk77IA3YYRBsOiPdAtihSmnrv8FgDnsCVw2Wws"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 15 narrative.]
+The alarm goes off at 04:50 and after a fitful night sleep, I feel like complete shit. Start forcing down the carbs as today is all about fuelling and set off from Bedoin at 05:55. The goal today is the Cingle - complete all 3 ascents of Ventoux in one sitting - from Bedoin, Malaucene and Sault. The first two climbs are the hardest, the third is a done deal really. There is a segment of 4km on the second climb at a sustained 12% with no let-up that I know is going to be tough. I'm hoping to hold about 200 - 210 watts on each climb and each climb is about 21 km long. It's just very different to any kind of climbing I've done before and you don't want to blow up or under-eat. The road is very quiet - I think I'm the first cyclist to leave Bedoin.
+
+Meet Jon and Jack coming the other way - we've all decided to go round at our own pace today. To be honest, now I feel great. Gradient is 6 - 7% and no bother at all. 200 watts is easy, in fact it's hard to stay there and not pull harder. Eventually I get to Chalet Reynard and I feel like the climb is over but still 6k to go. Now the headwinds kick in on the exposed slopes but I reach the top without drama. Quick chat with Jon who caught me just at the top and then descend into Malaucene. My front brakes are NOT happy and the noise and juddering is off-putting to say the least. In Malaucene, stock up on water and pastries, toilet break and then go again. The climb is roughly the same as the Bedoin side until I hit the 4km stretch - it is a right stinker, no levelling out at all. Have to hold 250 watts to spin through it but eventually it comes to an end and the next 7% section feels pan flat! More headwinds at the top and I'm feeling completely elated. The two hard ones are done! Sault is a piece of cake!
+
+I've run out of water but it's a descent all the way into Sault for another food stop. But then, the luck of the Irish (or the shit software of the Coros) deserts me - the Coros decides that I'm on the homeward leg and elides the turn off to Sault. 10 minutes later I'm 1,000m down just outside Bedoin and I know I've fucked up bad.
+
+I decide to tack over to Sault at the base of the mountain but 5k in realise that this is a 27km leg with 800m climbing to get to Sault on bad roads. And I'm out of water! The only sensible way is to retrace and climb up to Chalet Reynard and take the turn I should have taken on the descent.
+
+And that's when I realise that I'm not doing that - two ascents is good enough for me. I don't want to test the brakes anymore than I already have and this has been an epic tour so far. The Cingle eluded me due to shit Chinese software (my acidic review of the Coros is a whole other post by itself). It's still a great day out and I respect the history and tradition of Ventoux - it's a climbers climb.
 
 # Day 16: Bédoin - Plan-d'Orgon
 
