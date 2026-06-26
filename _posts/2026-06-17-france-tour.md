@@ -151,6 +151,8 @@ Big day today! Getting close to Lyon AND transitioning away from the Loire and o
 
 On the "ViaRhona" today. As it's a Sunday there isn't much (if anything) open after 12:30 so I find a Lidl early doors and fill my boots. Very hot again today.
 
+Staying in a series of chambre d'hotes is funny because it brings you into close proximity to a french family for an arrival, a night and a breakfast. I've already mentioned the upgrade this naturally forces to speaking french (as well as watching a french news channel with a streaming ticker on the bottom of the screen) but it also means that you share their lives for this short interlude. Teenage kids banging doors, how they prepare breakfast, dogs and cats checking out the latest mystery arrival. It's very different to cycling through the US for example and staying in hotels / motels.
+
 # Day 12: Le Pouzin - Mornas
 
 [Day 12 Strava link](https://www.strava.com/activities/18836908072)
@@ -206,4 +208,4 @@ And that's when I realise that I'm not doing that - two ascents is good enough f
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="18917161050" data-style="standard" data-from-embed="false" data-token="6oIzLVsfBw57GE3O3VN7D3uxZr5CFjDeSdKMVGjvyDU"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 17 narrative.]
+The final day! It's a flat run into Marseille and the route runs alongside a very busy autoroute (the A12?) going into Marseille. I'm on a quiet road looking down on all the traffic whizzing by making good progress. Today is a Sunday so the usual protocol is to get to a supermarket by 12:30 and stock up. Pass under a magnificent three-tier bridge that I'm sure I recognise from photos and the countryside slowly gives way to urban sprawl. All of a sudden I'm in a street with Tunisian restaurants / takeaways, then Moroccan, then Algerian. The Maghreb influence is very strong in Marseille and it shows. The drivers are mental and I take up an assertive position on the road. The traffic is heavy so I filter left and right to get ahead of bad drivers. My goal is La basilique Notre-Dame de la Garde high up overlooking Marseille / the vieux port. It's a spicy climb to get up there and the bottom bracket is groaning badly. Tourists keep looking around to see what the noise is but it's gotten me this far. And I'm there! Ask a guy to take my photo in french and he tells me he's from Limerick and is "absolutely fucking melting". What a coincidence! The view is stunning and it's a fitting end to a fantastic tour. 1,640 km, 12,950 metres of climbing - a decent shift.
