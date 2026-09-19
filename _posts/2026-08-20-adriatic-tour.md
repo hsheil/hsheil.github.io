@@ -16,7 +16,7 @@ With a fairly major hamstring operation impending (thank you running!) and a six
 [TODO: Trip summary - highlights, lowlights, weather, bike condition, punctures, fitness, standout days (Swiss passes? Po valley headwinds? Adriatic coast?), final totals.]
 
 <figure>
-    <img src="/images/[TODO]-tour-map.png" alt="[TODO] tour map" />
+    <img src="/images/it26-tour-map.png" alt="Europe N-S 2026 tour map" />
     <figcaption>Figure 1. 18 segments to get from Amsterdam Schiphol to Napoli.</figcaption>
 </figure>
 
