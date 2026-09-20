@@ -13,7 +13,7 @@ With a fairly major hamstring operation impending (thank you running!) and a six
 
 # How did it go?
 
-[TODO: Trip summary - highlights, lowlights, weather, bike condition, punctures, fitness, standout days (Swiss passes? Po valley headwinds? Adriatic coast?), final totals.]
+This trip had no UK component - flying into Schiphol and starting in continental Europe. Overall, it was a really cool trip, taking in nine countries on the way down to Napoli. Getting over the Alps via the Albula and Furon passes was a highlight - climbing because I *had* to get over that mountain range vs doing Ventoux for fun. After the Alps, the heat in Italy became an issue. I tried to compensate by starting at 06:30 - 07:00 which helped but the end of each day was still 35+ degrees. Crazy temps for early September..
 
 <figure>
     <img src="/images/it26-tour-map.png" alt="Europe N-S 2026 tour map" />
@@ -83,7 +83,7 @@ Today has me dipping in and out of Netherlands and Belgium, finally ending up in
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19852102144" data-style="standard" data-from-embed="false" data-token="IMzLg8avr-vkkpk5B3IgZX3tk22CXfN82wkTU-o7WgE"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 3 narrative.]
+More rain overnight but by 09:30 the roads were mostly dry. Got going after breakfast - the majority of today was the Vennbahn. Got lots of signs for fallen trees and decided to ignore them and by golly there were a *lot* of trees down. Ended up scrambling through thick undergrowth to get round some of them. Eventually stopped for a huge and expensive doner kebap beside a Carrefour shop then got going again. Rain last 5km to get into Waxweiler nice and wet.
 
 # Day 4: Waxweiler - Merzig
 
@@ -91,7 +91,9 @@ Today has me dipping in and out of Netherlands and Belgium, finally ending up in
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19865537811" data-style="standard" data-from-embed="false" data-token="V97ABHH_IIPrBfn32cilqLXeTWKyRqBExdYdLMFWK4E"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 4 narrative.]
+Waxweiler has a big statue of the Virgin Mary overlooking it - apparently they had a very quiet WW2 until it was used as a staging area for the Ardennes offensive in Dec 1944 so the allies blew the f**k out of it in January 1945. The then-Waxweilers got such a shock from this entirely unforeseeable cause-and-effect that they swore to build a statue if they survived the war. The bombing killed plenty of "ost gastarbeiters" as well as Germans, but their names don't get to make the plaque by the church.
+
+It's hot today and also Sunday so nearly everything is shut. Come off-course quite a bit to find a Bäckerei beside a Lidl and get to Merzig by tootling along beside the Saar. Merzig hotel is recently refurbed and generally nice with a brewery restaurant right beside it. After a hearty Schnitzel and chips plus a local brew, it's back to the hotel to watch Dr Who and Princess Xena re-runs dubbed in German.
 
 # Day 5: Merzig - Neuwiller
 
