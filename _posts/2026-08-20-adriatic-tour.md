@@ -101,7 +101,9 @@ It's hot today and also Sunday so nearly everything is shut. Come off-course qui
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19878749903" data-style="standard" data-from-embed="false" data-token="g7gzt6oxwBXpppGDUrls_I4xeHLH9IcQZb6P-oiGZzk"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 5 narrative.]
+Today starts with a traumatic event. I forgot to pack a razor and my hotel offers free ones so I got one. Worst shave of my life and I spent 10 minutes inflicting blunt pain on my face. Breakfast was good though and I snaffled two big rolls absolutely stuffed with nutella for the road.
+
+I'm crossing into France today, going via Saarbrucken. The river path is unremarkable, the odd interesting bridge to look at. The road into Neuwiller gets a bit lumpy towards the end, then a draggy climb up and down to my gîte for the night. This, combined with a heavy burst of rain makes me quite glad to get off the bike. After the rain dies down I wander into town and pick up some food shopping.
 
 # Day 6: Neuwiller-lès-Saverne - Tennenbronn / Schramberg
 
@@ -109,7 +111,7 @@ It's hot today and also Sunday so nearly everything is shut. Come off-course qui
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19895646427" data-style="standard" data-from-embed="false" data-token="NaZgdHwVkHaK5LmTWZIl0DErCfIef4VIla0m9Yly9SE"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 6 narrative.]
+It rained a lot overnight and then until about 10:30. I took a chance on waiting it out which paid off handsomely. On the road with a paupers breakfast because I forgot to buy anything in the shops so keen to get something on the road. My goal today is Tennenbronn deep inside the Black Forest. The road today gets much more scenic and interesting. Lots to see as the miles pass by under my wheels. I really need to start looking at contour lines when booking accom - Tennenbronn is at the end of a stinker of a climb - should have stayed in Schramberg. And the road is closed! I take a chance and just go up it - hopefully bikes can make it through. They can and I'm finally there. Hot today - a prelude to Italy after the Alps.. Cool at night though which is a blessed relief.
 
 # Day 7: Schramberg - Konstanz
 
@@ -117,7 +119,7 @@ It's hot today and also Sunday so nearly everything is shut. Come off-course qui
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19909068271" data-style="standard" data-from-embed="false" data-token="ZF8YCizyuZWPYg5sLBrWMPnmjvnBAdaFq6hn0uwg_IU"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 7 narrative.]
+Last night had pizza for dinner in quite a strange pub but there was precisely one place open in Tennenbronn so beggars can't be choosers. Was sleeping well until some prick in another room had his alarm go off at 6 am and then every 15 minutes after that. What a wanker. A good breakfast put me back in a good mood and I hit the road. Another spicy climb to start the day and I've just completed it when I have two missed calls on my phone. It's the gasthaus telling me that I forgot to pay them! I've booked 18 accoms for this trip and have an avalanche of emails from booking.com telling me payment is being taken x days in advance. But some properties (like this one) want you to pay on-site. Mea culpa and I apologise profusely. They can get booking.com to charge my card and then send me an invoice for the 0.90 cents tourist tax. International disaster averted, it's time to crack on. Warmer again today - we're consistently getting up to 30+ celsius day after day. Finally get onto a road taking me into Konstanz around the lake and I get to the hotel. It's a nice place but my room is up in the eaves with no aircon - shit. Fitful sleep and I've decided to get going as early as possible tomorrow to beat the heat, before breakfast even starts.
 
 # Day 8: Konstanz - Chur
 
