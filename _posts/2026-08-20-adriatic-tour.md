@@ -13,7 +13,7 @@ With a fairly major hamstring operation impending (thank you running!) and a six
 
 # How did it go?
 
-This trip had no UK component - flying into Schiphol and starting in continental Europe. Overall, it was a really cool trip, taking in nine countries on the way down to Napoli. Getting over the Alps via the Albula and Furon passes was a highlight - climbing because I *had* to get over that mountain range vs doing Ventoux for fun. After the Alps, the heat in Italy became an issue. I tried to compensate by starting at 06:30 - 07:00 which helped but the end of each day was still 35+ degrees. Crazy temps for early September..
+This trip had no UK component - flying into Schiphol and starting in continental Europe. Overall, it was a really cool trip, taking in nine countries on the way down to Napoli. Getting over the Alps via the Albula and Furon passes was a highlight - climbing because I *had* to get over that mountain range vs doing Ventoux for fun. After the Alps, the heat in Italy became an issue. I tried to compensate by starting at 06:30 - 07:00 which helped but the end of each day was still 35+ degrees. Crazy temps for early September.. Overall, I feel like I really *earned* this tour - there were a few days when I had to really work at it. I don't remember days like that for Prague, Sardinia or California.
 
 <figure>
     <img src="/images/it26-tour-map.png" alt="Europe N-S 2026 tour map" />
@@ -127,7 +127,7 @@ Last night had pizza for dinner in quite a strange pub but there was precisely o
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19921539953" data-style="standard" data-from-embed="false" data-token="7s8amhUMYjb-N4HNpXGjAlDKCKc8TlNGNmwPCS-C1hA"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 8 narrative.]
+After a fitful sleep in a hot attic room, I wake up at 05:30 and have a couple of bananas and pretzels for breakfast - the hotel breakfast starts at 07:30 and I'll be long gone by then. Splash some air into the tyres and hit the road in lovely cool temps of 18 degrees C. I meet a few cyclists commuting into work at this hour and then the sun rises over the lake but it's hard to get a really nice photo of it. This is my last flat day before the Alps and I want to cruise efficiently. I cross the border into Switzerland and then Liechtenstein and slowly the scenery starts to change. I'm following a small busy river upstream in a valley with the headwinds slowly building and building - eventually I realise it's the Rhine! Bloody hell it's small up here. Stop at Vaduz for a food / water break and it's boiling. Not far to Chur now, but the headwind becomes extraordinary - one of the worst I've experienced. The road is elevated above the river so there is no shelter - just buckle down and get it done. Finally roll into Chur and mentally mark a McDonalds downtown for a post-ride feast. Check into the hotel amid a rising apprehension of the climbing to come tomorrow..
 
 # Day 9: Chur - Zernez
 
