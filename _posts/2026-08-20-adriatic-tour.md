@@ -111,7 +111,11 @@ I'm crossing into France today, going via Saarbrucken. The river path is unremar
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19895646427" data-style="standard" data-from-embed="false" data-token="NaZgdHwVkHaK5LmTWZIl0DErCfIef4VIla0m9Yly9SE"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-It rained a lot overnight and then until about 10:30. I took a chance on waiting it out which paid off handsomely. On the road with a paupers breakfast because I forgot to buy anything in the shops so keen to get something on the road. My goal today is Tennenbronn deep inside the Black Forest. The road today gets much more scenic and interesting. Lots to see as the miles pass by under my wheels. I really need to start looking at contour lines when booking accom - Tennenbronn is at the end of a stinker of a climb - should have stayed in Schramberg. And the road is closed! I take a chance and just go up it - hopefully bikes can make it through. They can and I'm finally there. Hot today - a prelude to Italy after the Alps.. Cool at night though which is a blessed relief.
+It rained a lot overnight and then until about 10:30. I took a chance on waiting it out which paid off handsomely. On the road with a paupers breakfast because I forgot to buy anything in the shops so keen to get something on the road. My goal today is Tennenbronn deep inside the Black Forest. The road today gets much more scenic and interesting. Lots to see as the miles pass by under my wheels. 
+
+The cycle path goes *right* past the european parliament in Strasbourg so I nip up for a photo. It's all locked down for security and looks to be on holiday. Get a picture at the "Strasbourg ❤️ Europe" sign and putter on. Then the front wheel gets squishy and I realise that Strasbourg has given me the gift of a flat tyre. Pull into a cafe and swap in a new tube over some coffee and pastries. Rain threatens but backs off.
+
+I really need to start looking at contour lines when booking accom - Tennenbronn is at the end of a stinker of a climb - should have stayed in Schramberg. And the road is closed! I take a chance and just go up it - hopefully bikes can make it through. They can and I'm finally there. Hot today - a prelude to Italy after the Alps.. Cool at night though which is a blessed relief.
 
 # Day 7: Schramberg - Konstanz
 
