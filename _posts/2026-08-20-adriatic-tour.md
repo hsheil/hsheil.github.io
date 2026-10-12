@@ -155,7 +155,15 @@ The climb is stern for sure - there's a drag in the middle that is a real tester
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19949857736" data-style="standard" data-from-embed="false" data-token="3m8wBcWpegsaLFfpqkH0XWZwoy6mHaIZXqoq-QtDSkM"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 10 narrative.]
+It rained on and off in Zernez all evening. The B&B recommended a pizzeria next door and it was indeed very good. The B&B WiFi was crap in my room so went to bed early. Decent breakfast the next day, got the bike out of the garage and did a bit of maintenance, in particular checking the brakes after they got a good pounding on the descent yesterday. As per the France trip, the front caliper is squealy as fuck even with high quality new pads, but it works.
+
+The climb starts *right* out of Zernez, but that's ok with me. In fact it's all front-loaded today with a long, fast descent into Lana in South Tyrol. Turns out today is Stelvio Day! Just over the Italian border I join a stream of thousands of cyclists enjoying their descent off that iconic pass - for me after yesterday Pass dal Fuorn was quite enough thank you with my loaded-out bike. Also looking at the photos online it looked busy as fuck going up there - potential for accidents.
+
+Soon their way and mine part and I find myself in some kind of upper Alpine pasture straight out of The Sound of Music. It's unbelievable scenery - probably the prettiest I've ever seen in a sugary, pastiche manner (not bad, just is what it is).
+
+Once the altitude bleeds off and I'm in South Tyrol proper, it gets very got - 35+. Stop for one of the biggest doner kebaps I have ever eaten in my life which takes a while to arrive and I'm keen to get going. Just about manage to finish it and hoist myself back on the bike like a two-ton tessie.
+
+On the run into Lana I start to go through miles and miles of apple orchards - turns out this is called the apple orchard of Europe. The apples are *massive* and I'm getting more and more tempted as I cycle through. Eventually I succumb and take one, looking furtively around as I do so, sure that some cane corso will come running out of the orchard and nip my bollocks off. Crime committed, it's a short run into Lana to a very nice hotel where they only speak German it seems to me.
 
 # Day 11: Lana - Ala
 
