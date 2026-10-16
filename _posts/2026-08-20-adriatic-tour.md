@@ -157,9 +157,9 @@ The climb is stern for sure - there's a drag in the middle that is a real tester
 
 It rained on and off in Zernez all evening. The B&B recommended a pizzeria next door and it was indeed very good. The B&B WiFi was crap in my room so went to bed early. Decent breakfast the next day, got the bike out of the garage and did a bit of maintenance, in particular checking the brakes after they got a good pounding on the descent yesterday. As per the France trip, the front caliper is squealy as fuck even with high quality new pads, but it works.
 
-The climb starts *right* out of Zernez, but that's ok with me. In fact it's all front-loaded today with a long, fast descent into Lana in South Tyrol. Turns out today is Stelvio Day! Just over the Italian border I join a stream of thousands of cyclists enjoying their descent off that iconic pass - for me after yesterday Pass dal Fuorn was quite enough thank you with my loaded-out bike. Also looking at the photos online it looked busy as fuck going up there - potential for accidents.
+The climb starts *right* out of Zernez, but that's ok with me. In fact it's all front-loaded today with a long, fast descent into Lana in South Tyrol. The road is busy - cars and busses. The busses are just as bad at close-passing as the cars because they are trying to hold momentum going up the climb therefore they want to get back in and avoid braking for cars coming the opposite way. A few weeks after this trip a dutch bus crashed near Zernez - 5 dead and 40 injured. I wasn't surprised.
 
-Soon their way and mine part and I find myself in some kind of upper Alpine pasture straight out of The Sound of Music. It's unbelievable scenery - probably the prettiest I've ever seen in a sugary, pastiche manner (not bad, just is what it is).
+Turns out today is Stelvio Day! Just over the Italian border I join a stream of thousands of cyclists enjoying their descent off that iconic pass - for me after yesterday Pass dal Fuorn was quite enough thank you with my loaded-out bike. Also looking at the photos online it looked busy as fuck going up there - potential for accidents. Soon their way and mine part and I find myself in some kind of upper Alpine pasture straight out of The Sound of Music. It's unbelievable scenery - probably the prettiest I've ever seen in a sugary, pastiche manner (not bad, just is what it is).
 
 Once the altitude bleeds off and I'm in South Tyrol proper, it gets very got - 35+. Stop for one of the biggest doner kebaps I have ever eaten in my life which takes a while to arrive and I'm keen to get going. Just about manage to finish it and hoist myself back on the bike like a two-ton tessie.
 
@@ -171,7 +171,13 @@ On the run into Lana I start to go through miles and miles of apple orchards - t
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19962547536" data-style="standard" data-from-embed="false" data-token="UxPnLX5eaUv-cnCPesxLrumruHYDzTY2RPINWBZQdt0"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 11 narrative.]
+My hotel had no aircon but I had a big suite to myself under the Swiss-style eaves with a balcony so left all the windows and doors open. The breakfast was extremely good - as attested by the people posting pictures to instagram. 
+
+Usually on tours I always have a lazy start - breakfast at 08:45, ablutions, pack the bike and happy to be on the road for 10 am. Not now though, it's way too warm. Now I'm trying to be on the road just after sunrise / 06:30 which is a pain in the hole. But that gives 2 cool hours before it gets baking.
+
+Today features a belter of a cycle path that is Sunday-busy. Get into a tasty pace line and we clip along at a lovely pace. At a turn, a crusty old Italian geezer squeezes past me in the line even though I'm faster than him - wizened features, wrinkly arms, rim brakes, campag gears - the full 10 yards. That's ok though, it's Sunday and I'm touring. Next he starts shouting at his mate to come through on me as well. Fuck off grandpa, I'm not having that. Get a glare and I smile back at him - fuck you Federico.
+
+The hotel is a bit strange but ok and has aircon and decent wifi. The reviews say that the adjacent restaurant has some of the best curry in Italy (!) so I decide to take a punt on a chicken curry. It's a solid 3/10 and I laughed when the naan bread came - it was just a pizza base!
 
 # Day 12: Ala - Fiesso Umbertiano
 
