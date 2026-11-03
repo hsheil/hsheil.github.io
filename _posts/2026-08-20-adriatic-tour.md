@@ -185,7 +185,15 @@ The hotel is a bit strange but ok and has aircon and decent wifi. The reviews sa
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19976197429" data-style="standard" data-from-embed="false" data-token="POMIDtWz_QAC8xUKxkeR6jUmvLXPh8M8mXvr9XvgF0E"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 12 narrative.]
+Today promises to be a scorcher so it's up early again. The breakfast setup is one of those where everytning is sweet, sugary, wrapped in plastic with a best before date two years in the future. Yum! I also get some sugary orange juice in and I can actually feel my teeth enamel start to let go in my mouth.
+
+Hit the road and it's roasting by 11 am. I'm in the Po valley now and basically that means mostly flat, usually following a river and the faint smell of milk a lot of the time. Stop twice for food, both supermarkets. I've latched on to grapes as my go-to food of choice now. Italian grapes are delish and I'm wolfing them down to get some carbs and hydration. I knew the target hotel today was a bit unconventional but when I arrive there - fuck me.. It's in an industrial estate and wouldn't look out of place in the shittiest eastern european town from the 1970s. It has barely functioning aircon though so thank god for small mercies. 
+
+In my touring experience you can always tell a quality establishment by how they feel when you try and bring your bike to the room. This guy didn't bat an eyelid - I could have told him I was planning on birthing two calves and a lamb and he wouldn't give a shit. And when I get to the room the reason for this laissez faire attitude is all too clear.. But I mean I think I paid £40 and it has aircon.
+
+There is *nothing* around for miles so it's also time to brave the in-house pizzeria for dinner. As I approach, the door opens and a billow of smoke pours out - the oven is malfunctioning and the whole place reeks of smoke.
+
+Wearily I sit down and order a pizza salami with a can of coke. It arrives quickly (clearly the oven was already up to temp) and.... it is straight up the best pizza I have ever tasted in my life. And it's huge!! I can't believe it. The pizzeria itself is shit - annoying flies buzzing around, the smoke, strange staff, but the food is absolutely glorious! Sated, it's time to hit the hay.
 
 # Day 13: Fiesso Umbertiano - Ravenna
 
