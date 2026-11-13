@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Migrating our robot simulator from MuJoCo 2.3 to 4.0: one number, lots of proof"
+title:  "Migrating our robot simulator from MuJoCo 2.3 to 4.0"
 date:   2026-11-13 18:30:00 +0000
 last_modified_at: 2026-11-13 18:30:00 +0000
 categories: robotics simulation
-excerpt: Two years pinned on MuJoCo 2.3.7 because of a weld-constraint solver change. How we measured it, fixed it with one attribute, and proved parity with the old version.
+excerpt: MuJoCo is a widely-used and actively-developed simulation environment. Physics-based, the latest release is 4.x and contains significant enhancements over earlier versions. But upgrading is not straightforward..
 ---
 
 # Motivation
