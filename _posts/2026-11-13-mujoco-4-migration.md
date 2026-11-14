@@ -9,17 +9,14 @@ excerpt: MuJoCo is a widely-used and actively-developed simulation environment. 
 
 # Motivation
 
-In April 2023, Tony Zhao and colleagues published
-[ACT and ALOHA](https://arxiv.org/abs/2304.13705). This work introduces a cheap
-bimanual robot using near-commodity hardware from Trossen Robotics combined with an imitation-learning method.
+In April 2023, Tony Zhao et al published the [ACT: Action Chunking with Transformers paper](https://arxiv.org/abs/2304.13705). This work introduces a cheap
+bimanual robot using near-commodity hardware from Trossen Robotics combined with an imitation-learning method. ACT is a highly influential paper: thousands of labs and hobbyists built on it.
 
-It is a highly influential paper: thousands of
-labs and hobbyists built on it. The simulation side of that work — the
-bimanual ViperX arms, the mocap-weld control, the scripted policies, the
-recorded demonstrations — was written against **MuJoCo 2.3.7**, and it has
-not been updated since the [initial release](https://github.com/tonyzhaozh/act).
+For its simulations (the bimanual ViperX arms, the mocap-weld control, the scripted policies, the
+recorded demonstrations), ACT uses MuJoCo (Multi-Joint dynamics with Contact) from Google Deepmind - a general-purpose physics engine which comes with a robot menagerie. This engine + coterie of robots is *very* useful for robotics research.
 
-But MuJoCo has advanced significantly since then - v4 in particular has additional support for deformable surfaces and filaments (e.g. tying a knot at the top of a rubbish bag).
+But the simulation side of ACT was written against **MuJoCo 2.3.7**, and it has
+not been updated since the [initial release](https://github.com/tonyzhaozh/act). MuJoCo has advanced significantly since then - v4 in particular has additional support for deformable surfaces and filaments (e.g. tying a knot at the top of a rubbish bag). Why hasn't it been updated?
 
 # Moving from MuJoCo 2.3 to MuJoCo 4 - how and why
 
@@ -57,7 +54,7 @@ To be clear - this is not a bug in either MuJoCo or the ACT code. It is a change
 
 ## The fix
 
-After a grid sweep where we tried many stiffness values, we discovered the new values that allowed the original ACT code to work with MuJoCo 4.
+After a simple grid sweep where we tried many stiffness values and then tested the resulting behaviour in our tet rig, we discovered the new values that allowed the original ACT code to work with MuJoCo 4.
 
  ```
    before:  solimp=".25 .25 0.001"
