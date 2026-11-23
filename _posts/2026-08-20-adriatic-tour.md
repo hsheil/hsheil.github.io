@@ -201,7 +201,8 @@ Wearily I sit down and order a pizza salami with a can of coke. It arrives quick
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19988810933" data-style="standard" data-from-embed="false" data-token="6fGbO3CeBmOVZAKG0gccAYncvq0VbcQ9ON0wwKcxmGQ"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-[TODO: Day 13 narrative.]
+The rhythm in Italy is well-established by now. Get up early to try and beat the heat, fuel up and hit the road. There's no breakfast in this salubrious hotel so I get into Ferrara by crossing over the Po and hit my go-to - Lidl. I can't work out how to use the tongs in the pastry section and a woman pulls them out of my hands to show me like I'm an idiot. Perhaps I am..
+After a king's feast on the top of some bins in the Lidl carpark, it's time to press on. Today is flat and hot, hot, hot. Unusually for Italy, I get put onto a dedicated cycle path tracking a river. I'll be honest, the scenery is utterly forgettable, and I keep cycling into clouds of horrible midges that I can't see until I'm right in them. But today is all about getting to Ravenna - the historical capital of one of Rome's later iterations as it was breaking up. There are some really nice churches / cathedrals there in a fusion of romano-greek and gothic style that I find quite appealing. Wind picks up as I near the coast and it's not in my favour. Ravenna is *baking* hot and still full of tourists in early September. I have two burger meals in McDonalds because why not and then settle into the Airbnb which is slap-bang in the city centre. The next few days are all along the coast.
 
 # Day 14: Ravenna - Marotta
 
