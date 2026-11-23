@@ -84,3 +84,32 @@ With the new values, MuJoCo 4 tracked the target as well as the old one:
 - MuJoCo 4.0.1 instead of 2.3.7 - including access to [new features](https://mujoco.readthedocs.io/en/stable/changelog.html) like elasto-plasticity.
 - Python 3.14 instead of 3.10.
 - Current versions of the tool libraries.
+
+
+# Addendum: some tasks need a bit more fettling
+
+After the solimp change, we ran ACT's insertion task. The scripted policy picked up the peg, picked up the socket, brought them together — and stopped one reward short of insertion.
+
+The insertion task scores 0 to 4. We were stuck at 3: peg touching socket, both in the air. The final approach waypoints are hardcoded offsets around a fixed meet point, including a 7.15 mm vertical offset (`lift_right`). Those numbers were tuned against the old soft weld — the gripper's lag was part of the geometry. Stiffen the weld and the geometry changes, even though tracking is now better.
+
+At the meet, the commanded gripper separation was 100 mm, the real separation 120 mm, so the peg was 11 mm below the pin despite a +7 mm command.
+
+## The fix
+
+This time the fix was just to generate one of the episodes as a video and watch - the peg was centred laterally, but just a few millimetres too low. A very short sweep found a clean window:
+
+```
+lift = 0.00715  (original)   -> never inserted
+lift = 0.015 - 0.018         -> 5/5 inserted
+lift = 0.026                 -> overshoots
+```
+
+We baked 0.0165 into the ported policy — the z-lag of the stiff weld at the meet.
+
+## When you need this
+
+Not every task needs this step. For example the cube stack places 4-6 cm cubes on 4-6 cm targets; a 1 cm weld lag is inside tolerance, and it runs on MuJoCo 4 with untouched waypoints. Insertion requires a finer touch: a ~1 cm peg entering a ~1 cm aperture.
+
+The rule: **measure the new solver's tracking error under load first, and recalibrate only tasks whose final-phase tolerance is smaller than that error.** The lag is a property of the weld plus payload.
+
+A more permanent option would be to compensate for the lag in the controller: add the measured offset to the commanded pose, as tool-center-point calibration does on real robots. Then the original ACT scripts can remain untouched. We edited waypoints instead only because this env is a throwaway.
