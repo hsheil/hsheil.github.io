@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Migrating our robot simulator from MuJoCo 2.3 to 4.0"
+title:  "Migrating the ACT simulation environment from MuJoCo 2.3 to 4.0"
 date:   2026-11-13 18:30:00 +0000
 last_modified_at: 2026-11-13 18:30:00 +0000
 categories: robotics simulation
